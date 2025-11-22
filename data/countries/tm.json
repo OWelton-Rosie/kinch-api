@@ -1,0 +1,23 @@
+{
+  "rank": 114,
+  "country": "Turkmenistan",
+  "code": "tm",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f2.png",
+  "overall": 19.32,
+  "scores": {
+    "222": 25.21,
+    "333": 42.62,
+    "444": 51.29,
+    "555": 47.46,
+    "666": 45.63,
+    "777": 44.78,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 36.4,
+    "clock": 19.02,
+    "minx": 0,
+    "pyram": 10.2,
+    "skewb": 5.82,
+    "sq1": 0
+  }
+}

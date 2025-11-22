@@ -1,0 +1,23 @@
+{
+  "rank": 150,
+  "country": "Zambia",
+  "code": "zm",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ff-1f1f2.png",
+  "overall": 2.22,
+  "scores": {
+    "222": 6.21,
+    "333": 21.12,
+    "444": 7.16,
+    "555": 0,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 3.26,
+    "clock": 0,
+    "minx": 0,
+    "pyram": 0,
+    "skewb": 0,
+    "sq1": 0
+  }
+}

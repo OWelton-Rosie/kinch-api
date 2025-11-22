@@ -1,0 +1,23 @@
+{
+  "rank": 87,
+  "country": "Kosovo",
+  "code": "xk",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fd-1f1f0.png",
+  "overall": 30.94,
+  "scores": {
+    "222": 36.36,
+    "333": 59,
+    "444": 66.76,
+    "555": 64.76,
+    "666": 54.02,
+    "777": 49.14,
+    "333bf": 43.76,
+    "333fm": 0,
+    "333oh": 52.2,
+    "clock": 0,
+    "minx": 39.99,
+    "pyram": 31.25,
+    "skewb": 15.91,
+    "sq1": 12.78
+  }
+}

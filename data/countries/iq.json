@@ -1,0 +1,23 @@
+{
+  "rank": 130,
+  "country": "Iraq",
+  "code": "iq",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f6.png",
+  "overall": 11.49,
+  "scores": {
+    "222": 19.95,
+    "333": 25.67,
+    "444": 26.42,
+    "555": 26.14,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 25.4,
+    "333oh": 20.78,
+    "clock": 10.17,
+    "minx": 15.62,
+    "pyram": 13.02,
+    "skewb": 12.17,
+    "sq1": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "rank": 73,
+  "country": "Georgia",
+  "code": "ge",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1ea.png",
+  "overall": 38.22,
+  "scores": {
+    "222": 69.29,
+    "333": 57.1,
+    "444": 61.79,
+    "555": 57.64,
+    "666": 50.69,
+    "777": 48.48,
+    "333bf": 13.41,
+    "333fm": 42.11,
+    "333oh": 56.89,
+    "clock": 17.74,
+    "minx": 50.36,
+    "pyram": 55.29,
+    "skewb": 40.65,
+    "sq1": 28.3
+  }
+}

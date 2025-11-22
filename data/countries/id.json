@@ -1,0 +1,23 @@
+{
+  "rank": 27,
+  "country": "Indonesia",
+  "code": "id",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1e9.png",
+  "overall": 67.06,
+  "scores": {
+    "222": 59.46,
+    "333": 65,
+    "444": 79.44,
+    "555": 77.69,
+    "666": 82.03,
+    "777": 81.18,
+    "333bf": 80.38,
+    "333fm": 96.75,
+    "333oh": 91.8,
+    "clock": 53.94,
+    "minx": 78.78,
+    "pyram": 55.83,
+    "skewb": 64.32,
+    "sq1": 64.66
+  }
+}

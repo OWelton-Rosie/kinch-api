@@ -1,0 +1,23 @@
+{
+  "rank": 104,
+  "country": "Cambodia",
+  "code": "kh",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ed.png",
+  "overall": 24.81,
+  "scores": {
+    "222": 26.91,
+    "333": 47.79,
+    "444": 49.26,
+    "555": 41.87,
+    "666": 38.88,
+    "777": 39.88,
+    "333bf": 8.71,
+    "333fm": 0,
+    "333oh": 45.68,
+    "clock": 20.73,
+    "minx": 42.53,
+    "pyram": 18.05,
+    "skewb": 19.91,
+    "sq1": 21.65
+  }
+}

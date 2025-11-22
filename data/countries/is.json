@@ -1,0 +1,23 @@
+{
+  "rank": 94,
+  "country": "Iceland",
+  "code": "is",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f8.png",
+  "overall": 29.61,
+  "scores": {
+    "222": 40,
+    "333": 48.51,
+    "444": 58.88,
+    "555": 41.34,
+    "666": 38.08,
+    "777": 37.68,
+    "333bf": 7.28,
+    "333fm": 50,
+    "333oh": 49.84,
+    "clock": 23.4,
+    "minx": 30.99,
+    "pyram": 24.84,
+    "skewb": 27.13,
+    "sq1": 25.34
+  }
+}

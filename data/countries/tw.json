@@ -1,0 +1,23 @@
+{
+  "rank": 18,
+  "country": "Chinese Taipei",
+  "code": "tw",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1fc.png",
+  "overall": 69.41,
+  "scores": {
+    "222": 62.86,
+    "333": 68.54,
+    "444": 88.11,
+    "555": 91.91,
+    "666": 83.28,
+    "777": 85.56,
+    "333bf": 64.54,
+    "333fm": 83.1,
+    "333oh": 76.51,
+    "clock": 71.75,
+    "minx": 76.89,
+    "pyram": 66.47,
+    "skewb": 66.5,
+    "sq1": 74.56
+  }
+}

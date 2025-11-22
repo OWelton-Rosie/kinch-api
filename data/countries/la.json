@@ -1,0 +1,23 @@
+{
+  "rank": 127,
+  "country": "Laos",
+  "code": "la",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1e6.png",
+  "overall": 11.96,
+  "scores": {
+    "222": 20,
+    "333": 32.47,
+    "444": 33.24,
+    "555": 0,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 30.19,
+    "333oh": 35.54,
+    "clock": 17.13,
+    "minx": 0,
+    "pyram": 9.9,
+    "skewb": 13.94,
+    "sq1": 10.98
+  }
+}

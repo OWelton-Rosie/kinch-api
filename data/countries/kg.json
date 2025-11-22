@@ -1,0 +1,23 @@
+{
+  "rank": 70,
+  "country": "Kyrgyzstan",
+  "code": "kg",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ec.png",
+  "overall": 39.46,
+  "scores": {
+    "222": 37.61,
+    "333": 63.93,
+    "444": 66.52,
+    "555": 65.96,
+    "666": 60.27,
+    "777": 54.01,
+    "333bf": 15.73,
+    "333fm": 56.73,
+    "333oh": 76.28,
+    "clock": 21.75,
+    "minx": 53.97,
+    "pyram": 24.78,
+    "skewb": 31.21,
+    "sq1": 38.74
+  }
+}

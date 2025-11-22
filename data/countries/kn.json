@@ -1,0 +1,23 @@
+{
+  "rank": 113,
+  "country": "St. Kitts & Nevis",
+  "code": "kn",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1f3.png",
+  "overall": 20.78,
+  "scores": {
+    "222": 21.62,
+    "333": 27.5,
+    "444": 36.64,
+    "555": 33.98,
+    "666": 33.24,
+    "777": 34.31,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 32.27,
+    "clock": 32.01,
+    "minx": 27.14,
+    "pyram": 14.84,
+    "skewb": 15.62,
+    "sq1": 44.01
+  }
+}

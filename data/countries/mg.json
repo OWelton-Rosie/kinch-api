@@ -1,0 +1,23 @@
+{
+  "rank": 98,
+  "country": "Madagascar",
+  "code": "mg",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1ec.png",
+  "overall": 27.25,
+  "scores": {
+    "222": 50.87,
+    "333": 48.09,
+    "444": 61.14,
+    "555": 58.85,
+    "666": 57.22,
+    "777": 55.39,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 55.34,
+    "clock": 10.69,
+    "minx": 38.37,
+    "pyram": 21.38,
+    "skewb": 5.93,
+    "sq1": 0
+  }
+}

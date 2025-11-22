@@ -1,0 +1,23 @@
+{
+  "rank": 139,
+  "country": "Uganda",
+  "code": "ug",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1ec.png",
+  "overall": 6.77,
+  "scores": {
+    "222": 18.64,
+    "333": 28.06,
+    "444": 25.86,
+    "555": 23.86,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 0,
+    "clock": 0,
+    "minx": 0,
+    "pyram": 10.31,
+    "skewb": 8.43,
+    "sq1": 0
+  }
+}

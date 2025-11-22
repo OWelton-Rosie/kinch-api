@@ -1,0 +1,23 @@
+{
+  "rank": 12,
+  "country": "Switzerland",
+  "code": "ch",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1ed.png",
+  "overall": 73.58,
+  "scores": {
+    "222": 60.27,
+    "333": 65.55,
+    "444": 78.41,
+    "555": 81.63,
+    "666": 81.44,
+    "777": 79.71,
+    "333bf": 66.08,
+    "333fm": 89.41,
+    "333oh": 94.96,
+    "clock": 73.14,
+    "minx": 71.56,
+    "pyram": 61.83,
+    "skewb": 55.24,
+    "sq1": 62.91
+  }
+}

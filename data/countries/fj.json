@@ -1,0 +1,23 @@
+{
+  "rank": 135,
+  "country": "Fiji",
+  "code": "fj",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1ef.png",
+  "overall": 7.25,
+  "scores": {
+    "222": 18.8,
+    "333": 29.35,
+    "444": 23.42,
+    "555": 21.96,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 14.8,
+    "clock": 0,
+    "minx": 0,
+    "pyram": 8.59,
+    "skewb": 6.38,
+    "sq1": 0
+  }
+}

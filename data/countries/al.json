@@ -1,0 +1,23 @@
+{
+  "rank": 112,
+  "country": "Albania",
+  "code": "al",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f1.png",
+  "overall": 21.44,
+  "scores": {
+    "222": 27.94,
+    "333": 46.88,
+    "444": 44.07,
+    "555": 36.28,
+    "666": 26.3,
+    "777": 0,
+    "333bf": 10.7,
+    "333fm": 45.04,
+    "333oh": 43.52,
+    "clock": 0,
+    "minx": 27.57,
+    "pyram": 18.08,
+    "skewb": 24.51,
+    "sq1": 13.61
+  }
+}

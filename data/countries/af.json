@@ -1,0 +1,23 @@
+{
+  "rank": 129,
+  "country": "Afghanistan",
+  "code": "af",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1eb.png",
+  "overall": 11.66,
+  "scores": {
+    "222": 30.88,
+    "333": 37.04,
+    "444": 32.48,
+    "555": 31.79,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 27.27,
+    "clock": 13.09,
+    "minx": 0,
+    "pyram": 9.7,
+    "skewb": 16,
+    "sq1": 0
+  }
+}

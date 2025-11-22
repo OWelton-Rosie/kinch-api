@@ -1,0 +1,23 @@
+{
+  "rank": 33,
+  "country": "Colombia",
+  "code": "co",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f4.png",
+  "overall": 63.33,
+  "scores": {
+    "222": 73.95,
+    "333": 62,
+    "444": 71.8,
+    "555": 71.49,
+    "666": 79.28,
+    "777": 76.63,
+    "333bf": 60.21,
+    "333fm": 80,
+    "333oh": 64.12,
+    "clock": 67.06,
+    "minx": 70.26,
+    "pyram": 67.25,
+    "skewb": 55.24,
+    "sq1": 61.49
+  }
+}

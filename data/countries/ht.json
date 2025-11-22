@@ -1,0 +1,23 @@
+{
+  "rank": 115,
+  "country": "Haiti",
+  "code": "ht",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f9.png",
+  "overall": 18.81,
+  "scores": {
+    "222": 19.3,
+    "333": 39.35,
+    "444": 41.65,
+    "555": 31.04,
+    "666": 25.49,
+    "777": 23.05,
+    "333bf": 11.97,
+    "333fm": 40,
+    "333oh": 40.4,
+    "clock": 0,
+    "minx": 21.7,
+    "pyram": 9.37,
+    "skewb": 6.05,
+    "sq1": 10.4
+  }
+}

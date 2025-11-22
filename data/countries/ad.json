@@ -1,0 +1,23 @@
+{
+  "rank": 123,
+  "country": "Andorra",
+  "code": "ad",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1e9.png",
+  "overall": 13.9,
+  "scores": {
+    "222": 20.95,
+    "333": 31.63,
+    "444": 35.37,
+    "555": 31.04,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 21.6,
+    "clock": 14.64,
+    "minx": 21.87,
+    "pyram": 16.45,
+    "skewb": 25.56,
+    "sq1": 17.14
+  }
+}

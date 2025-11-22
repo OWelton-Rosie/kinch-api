@@ -1,0 +1,23 @@
+{
+  "rank": 53,
+  "country": "Uruguay",
+  "code": "uy",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1fe.png",
+  "overall": 47.04,
+  "scores": {
+    "222": 35.77,
+    "333": 47.74,
+    "444": 61.81,
+    "555": 54.58,
+    "666": 54.32,
+    "777": 53.38,
+    "333bf": 32.48,
+    "333fm": 69.57,
+    "333oh": 59.8,
+    "clock": 69.33,
+    "minx": 61.03,
+    "pyram": 51.8,
+    "skewb": 50,
+    "sq1": 40.61
+  }
+}

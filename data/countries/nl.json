@@ -1,0 +1,23 @@
+{
+  "rank": 15,
+  "country": "Netherlands",
+  "code": "nl",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f1.png",
+  "overall": 70.63,
+  "scores": {
+    "222": 90.72,
+    "333": 71.69,
+    "444": 88.19,
+    "555": 77.38,
+    "666": 74.53,
+    "777": 67.06,
+    "333bf": 75.9,
+    "333fm": 80,
+    "333oh": 71.28,
+    "clock": 77.66,
+    "minx": 65.87,
+    "pyram": 75.16,
+    "skewb": 64.93,
+    "sq1": 72.68
+  }
+}

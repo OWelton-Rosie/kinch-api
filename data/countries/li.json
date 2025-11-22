@@ -1,0 +1,23 @@
+{
+  "rank": 121,
+  "country": "Liechtenstein",
+  "code": "li",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1ee.png",
+  "overall": 16.32,
+  "scores": {
+    "222": 23.53,
+    "333": 30.14,
+    "444": 38.7,
+    "555": 36.64,
+    "666": 38.29,
+    "777": 36.79,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 39.03,
+    "clock": 0,
+    "minx": 0,
+    "pyram": 12.26,
+    "skewb": 14.48,
+    "sq1": 7.54
+  }
+}

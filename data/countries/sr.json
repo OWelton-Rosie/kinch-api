@@ -1,0 +1,23 @@
+{
+  "rank": 140,
+  "country": "Suriname",
+  "code": "sr",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f7.png",
+  "overall": 6.32,
+  "scores": {
+    "222": 14.36,
+    "333": 29.68,
+    "444": 31.56,
+    "555": 0,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 23.02,
+    "clock": 0,
+    "minx": 0,
+    "pyram": 8.75,
+    "skewb": 0,
+    "sq1": 0
+  }
+}

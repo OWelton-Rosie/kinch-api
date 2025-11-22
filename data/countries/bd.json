@@ -1,0 +1,23 @@
+{
+  "rank": 62,
+  "country": "Bangladesh",
+  "code": "bd",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1e9.png",
+  "overall": 44.94,
+  "scores": {
+    "222": 45.13,
+    "333": 57.27,
+    "444": 63.89,
+    "555": 57.66,
+    "666": 55.13,
+    "777": 49.5,
+    "333bf": 29.7,
+    "333fm": 69.57,
+    "333oh": 62.26,
+    "clock": 36.93,
+    "minx": 64.13,
+    "pyram": 43.23,
+    "skewb": 48.07,
+    "sq1": 43.03
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "rank": null,
+  "country": "Zimbabwe",
+  "code": "zw",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ff-1f1fc.png",
+  "overall": 22.01,
+  "scores": {
+    "222": 33.46,
+    "333": 33.56,
+    "444": 40.41,
+    "555": 43.28,
+    "666": 34.17,
+    "777": 35.07,
+    "333bf": 0,
+    "333fm": 42.11,
+    "333oh": 32.37,
+    "clock": 10.44,
+    "minx": 22.12,
+    "pyram": 21.02,
+    "skewb": 26.1,
+    "sq1": 0
+  }
+}

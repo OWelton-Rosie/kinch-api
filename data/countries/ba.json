@@ -1,0 +1,23 @@
+{
+  "rank": 85,
+  "country": "Bosnia & Herzegovina",
+  "code": "ba",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1e6.png",
+  "overall": 32.25,
+  "scores": {
+    "222": 30.24,
+    "333": 43,
+    "444": 49.04,
+    "555": 52.5,
+    "666": 56.98,
+    "777": 59.23,
+    "333bf": 14.57,
+    "333fm": 47.06,
+    "333oh": 37.94,
+    "clock": 31.79,
+    "minx": 37.46,
+    "pyram": 29.72,
+    "skewb": 34.08,
+    "sq1": 24.65
+  }
+}

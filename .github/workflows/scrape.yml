@@ -1,0 +1,49 @@
+name: Scrape Kinch Data
+
+on:
+  workflow_dispatch: {}        # allows manual runs
+  schedule:
+    - cron: "0 0 * * *"        # runs once per day at 00:00 UTC
+  push:
+    paths:
+      - "index.js"
+      - "src/**"               # re-run if scraper changes
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+        # This is needed so the workflow can push back to the repo
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        run: node scrape.js
+
+      - name: Commit and push results
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          git add data/*.json
+
+          # If nothing changed, do not commit
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update Kinch data [auto]"
+          git push

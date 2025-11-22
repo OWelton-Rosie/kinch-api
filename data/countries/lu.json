@@ -1,0 +1,23 @@
+{
+  "rank": 86,
+  "country": "Luxembourg",
+  "code": "lu",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1fa.png",
+  "overall": 31.68,
+  "scores": {
+    "222": 26.51,
+    "333": 35.91,
+    "444": 48.89,
+    "555": 51.48,
+    "666": 50.58,
+    "777": 47.13,
+    "333bf": 16.28,
+    "333fm": 60.84,
+    "333oh": 38.5,
+    "clock": 22.71,
+    "minx": 44.78,
+    "pyram": 25.33,
+    "skewb": 25.09,
+    "sq1": 19.2
+  }
+}

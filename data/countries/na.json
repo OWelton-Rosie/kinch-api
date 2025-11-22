@@ -1,0 +1,23 @@
+{
+  "rank": 134,
+  "country": "Namibia",
+  "code": "na",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1e6.png",
+  "overall": 7.78,
+  "scores": {
+    "222": 17.05,
+    "333": 24.87,
+    "444": 26.28,
+    "555": 19.64,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 19.84,
+    "clock": 0,
+    "minx": 0,
+    "pyram": 11.66,
+    "skewb": 12.88,
+    "sq1": 0
+  }
+}

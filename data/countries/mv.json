@@ -1,0 +1,23 @@
+{
+  "rank": 143,
+  "country": "Maldives",
+  "code": "mv",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fb.png",
+  "overall": 5.43,
+  "scores": {
+    "222": 17.92,
+    "333": 21.36,
+    "444": 21.17,
+    "555": 0,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 22.1,
+    "clock": 0,
+    "minx": 0,
+    "pyram": 9.79,
+    "skewb": 0,
+    "sq1": 0
+  }
+}

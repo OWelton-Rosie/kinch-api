@@ -1,0 +1,23 @@
+{
+  "rank": 117,
+  "country": "Montenegro",
+  "code": "me",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1ea.png",
+  "overall": 17.92,
+  "scores": {
+    "222": 21.31,
+    "333": 35.91,
+    "444": 36.02,
+    "555": 32.36,
+    "666": 24.36,
+    "777": 0,
+    "333bf": 7.47,
+    "333fm": 33.33,
+    "333oh": 25.56,
+    "clock": 9.88,
+    "minx": 28.93,
+    "pyram": 18.88,
+    "skewb": 18.98,
+    "sq1": 11.72
+  }
+}

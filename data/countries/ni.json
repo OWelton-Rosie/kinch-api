@@ -1,0 +1,23 @@
+{
+  "rank": 105,
+  "country": "Nicaragua",
+  "code": "ni",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ee.png",
+  "overall": 22.92,
+  "scores": {
+    "222": 21.31,
+    "333": 29.79,
+    "444": 37.08,
+    "555": 39.96,
+    "666": 35.21,
+    "777": 36.5,
+    "333bf": 15.31,
+    "333fm": 44.44,
+    "333oh": 33.15,
+    "clock": 23.89,
+    "minx": 25.95,
+    "pyram": 14.3,
+    "skewb": 16.37,
+    "sq1": 16.3
+  }
+}

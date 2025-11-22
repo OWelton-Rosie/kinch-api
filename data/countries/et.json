@@ -1,0 +1,23 @@
+{
+  "rank": 125,
+  "country": "Ethiopia",
+  "code": "et",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1f9.png",
+  "overall": 12.29,
+  "scores": {
+    "222": 20.66,
+    "333": 37.18,
+    "444": 26.16,
+    "555": 22.14,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 24.94,
+    "clock": 11.64,
+    "minx": 21.54,
+    "pyram": 16.43,
+    "skewb": 16.12,
+    "sq1": 12.17
+  }
+}

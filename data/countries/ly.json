@@ -1,0 +1,23 @@
+{
+  "rank": 138,
+  "country": "Libya",
+  "code": "ly",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1fe.png",
+  "overall": 6.78,
+  "scores": {
+    "222": 19.26,
+    "333": 28.14,
+    "444": 0,
+    "555": 21.17,
+    "666": 0,
+    "777": 0,
+    "333bf": 0,
+    "333fm": 0,
+    "333oh": 19.2,
+    "clock": 0,
+    "minx": 12.14,
+    "pyram": 7.82,
+    "skewb": 7.48,
+    "sq1": 0
+  }
+}

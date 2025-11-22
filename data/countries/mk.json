@@ -1,0 +1,23 @@
+{
+  "rank": 84,
+  "country": "North Macedonia",
+  "code": "mk",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f0.png",
+  "overall": 32.31,
+  "scores": {
+    "222": 36.36,
+    "333": 50.65,
+    "444": 56.39,
+    "555": 55.99,
+    "666": 47.7,
+    "777": 48.65,
+    "333bf": 9.34,
+    "333fm": 42.11,
+    "333oh": 48.95,
+    "clock": 19.47,
+    "minx": 40.02,
+    "pyram": 29.41,
+    "skewb": 35.77,
+    "sq1": 28.39
+  }
+}

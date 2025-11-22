@@ -1,0 +1,23 @@
+{
+  "rank": 1,
+  "country": "United States",
+  "code": "us",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png",
+  "overall": 96.19,
+  "scores": {
+    "222": 95.65,
+    "333": 82.63,
+    "444": 100,
+    "555": 98.71,
+    "666": 100,
+    "777": 100,
+    "333bf": 100,
+    "333fm": 100,
+    "333oh": 100,
+    "clock": 97.84,
+    "minx": 88.68,
+    "pyram": 81.56,
+    "skewb": 90.13,
+    "sq1": 100
+  }
+}

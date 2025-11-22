@@ -1,0 +1,23 @@
+{
+  "rank": 8,
+  "country": "South Korea",
+  "code": "kr",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1f7.png",
+  "overall": 75.71,
+  "scores": {
+    "222": 65.67,
+    "333": 69.15,
+    "444": 89.88,
+    "555": 92.6,
+    "666": 97.86,
+    "777": 92.04,
+    "333bf": 71.99,
+    "333fm": 94.12,
+    "333oh": 85.4,
+    "clock": 65.32,
+    "minx": 85.79,
+    "pyram": 61.5,
+    "skewb": 74.05,
+    "sq1": 80.38
+  }
+}

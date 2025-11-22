@@ -1,0 +1,23 @@
+{
+  "rank": 9,
+  "country": "New Zealand",
+  "code": "nz",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ff.png",
+  "overall": 75.5,
+  "scores": {
+    "222": 68.75,
+    "333": 65,
+    "444": 80.12,
+    "555": 76.88,
+    "666": 76.21,
+    "777": 74.66,
+    "333bf": 68.17,
+    "333fm": 88.09,
+    "333oh": 91.15,
+    "clock": 100,
+    "minx": 90.6,
+    "pyram": 82.14,
+    "skewb": 60.62,
+    "sq1": 81.95
+  }
+}

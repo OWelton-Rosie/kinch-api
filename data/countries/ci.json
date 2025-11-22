@@ -1,0 +1,23 @@
+{
+  "rank": 144,
+  "country": "Côte d’Ivoire",
+  "code": "ci",
+  "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1ee.png",
+  "overall": 4.9,
+  "scores": {
+    "222": 12.24,
+    "333": 28.82,
+    "444": 0,
+    "555": 0,
+    "666": 0,
+    "777": 0,
+    "333bf": 3.72,
+    "333fm": 0,
+    "333oh": 28.31,
+    "clock": 0,
+    "minx": 0,
+    "pyram": 10.25,
+    "skewb": 0,
+    "sq1": 0
+  }
+}
