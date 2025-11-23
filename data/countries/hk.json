@@ -3,7 +3,7 @@
   "country": "Hong Kong SAR China",
   "code": "hk",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f0.png",
-  "overall": 68.07,
+  "overall": 68.2,
   "scores": {
     "222": 68.22,
     "333": 63.41,
@@ -17,7 +17,7 @@
     "clock": 69.11,
     "minx": 74.35,
     "pyram": 52.04,
-    "skewb": 46.28,
+    "skewb": 48.41,
     "sq1": 62.31
   }
 }

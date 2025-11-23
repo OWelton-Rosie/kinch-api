@@ -1,0 +1,117 @@
+[
+  {
+    "rank": 1,
+    "country": "United States",
+    "code": "us",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png",
+    "overall": 96.19,
+    "scores": {
+      "222": 95.65,
+      "333": 82.63,
+      "444": 100,
+      "555": 98.71,
+      "666": 100,
+      "777": 100,
+      "333bf": 100,
+      "333fm": 100,
+      "333oh": 100,
+      "clock": 97.84,
+      "minx": 88.68,
+      "pyram": 81.56,
+      "skewb": 90.13,
+      "sq1": 100
+    }
+  },
+  {
+    "rank": 2,
+    "country": "China",
+    "code": "cn",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f3.png",
+    "overall": 89.15,
+    "scores": {
+      "222": 100,
+      "333": 100,
+      "444": 91.06,
+      "555": 83.64,
+      "666": 91.5,
+      "777": 94.3,
+      "333bf": 85.35,
+      "333fm": 96.75,
+      "333oh": 93.92,
+      "clock": 76.87,
+      "minx": 100,
+      "pyram": 96.64,
+      "skewb": 89.54,
+      "sq1": 74.08
+    }
+  },
+  {
+    "rank": 3,
+    "country": "Poland",
+    "code": "pl",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f1.png",
+    "overall": 85.78,
+    "scores": {
+      "222": 90.72,
+      "333": 83.51,
+      "444": 99.26,
+      "555": 100,
+      "666": 97.1,
+      "777": 92.85,
+      "333bf": 79.89,
+      "333fm": 100,
+      "333oh": 85.87,
+      "clock": 89.68,
+      "minx": 80.39,
+      "pyram": 68.45,
+      "skewb": 100,
+      "sq1": 80.8
+    }
+  },
+  {
+    "rank": 4,
+    "country": "Australia",
+    "code": "au",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1fa.png",
+    "overall": 82.23,
+    "scores": {
+      "222": 86.27,
+      "333": 70.52,
+      "444": 86.88,
+      "555": 85.56,
+      "666": 85.49,
+      "777": 80.3,
+      "333bf": 99.17,
+      "333fm": 96.75,
+      "333oh": 82.39,
+      "clock": 88.63,
+      "minx": 76.14,
+      "pyram": 100,
+      "skewb": 74.46,
+      "sq1": 87.69
+    }
+  },
+  {
+    "rank": 5,
+    "country": "United Kingdom",
+    "code": "gb",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png",
+    "overall": 79.24,
+    "scores": {
+      "222": 88,
+      "333": 67.24,
+      "444": 74.07,
+      "555": 79.61,
+      "666": 77.47,
+      "777": 80.94,
+      "333bf": 72.99,
+      "333fm": 100,
+      "333oh": 97.11,
+      "clock": 84.33,
+      "minx": 90.63,
+      "pyram": 73.25,
+      "skewb": 75.27,
+      "sq1": 72.8
+    }
+  }
+]

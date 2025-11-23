@@ -533,7 +533,7 @@
     "country": "Hong Kong SAR China",
     "code": "hk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f0.png",
-    "overall": 68.07,
+    "overall": 68.2,
     "scores": {
       "222": 68.22,
       "333": 63.41,
@@ -547,7 +547,7 @@
       "clock": 69.11,
       "minx": 74.35,
       "pyram": 52.04,
-      "skewb": 46.28,
+      "skewb": 48.41,
       "sq1": 62.31
     }
   },
@@ -1476,7 +1476,7 @@
     "country": "Macao SAR China",
     "code": "mo",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f4.png",
-    "overall": 44.16,
+    "overall": 44.18,
     "scores": {
       "222": 39.29,
       "333": 50.13,
@@ -1491,7 +1491,7 @@
       "minx": 47.7,
       "pyram": 38.46,
       "skewb": 39.6,
-      "sq1": 41.71
+      "sq1": 42.09
     }
   },
   {
@@ -2465,11 +2465,11 @@
     "country": "Kenya",
     "code": "ke",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ea.png",
-    "overall": 22.1,
+    "overall": 22.28,
     "scores": {
       "222": 29.83,
       "333": 37.94,
-      "444": 37.23,
+      "444": 37.25,
       "555": 34.23,
       "666": 31.29,
       "777": 22.03,
@@ -2477,9 +2477,9 @@
       "333fm": 38.1,
       "333oh": 36.66,
       "clock": 17.71,
-      "minx": 31.39,
+      "minx": 32.85,
       "pyram": 22.73,
-      "skewb": 14.54,
+      "skewb": 16.21,
       "sq1": 8.9
     }
   },

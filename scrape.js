@@ -85,7 +85,7 @@ async function scrapeKinchJSON() {
     countries.push({
       rank,
       country: countryName,
-      code: flagCode ? flagCode.toLowerCase() : null, // <-- Add country code
+      code: flagCode ? flagCode.toLowerCase() : null,
       flag,
       overall,
       scores,
@@ -95,7 +95,7 @@ async function scrapeKinchJSON() {
   return countries;
 }
 
-// ----------- WRITE FULL + PER-COUNTRY OUTPUT -----------
+// ----------- WRITE FULL + PER-COUNTRY + TOP X OUTPUT -----------
 export async function updateKinchJSON() {
   try {
     console.log("Scraping Kinch data...");
@@ -103,15 +103,11 @@ export async function updateKinchJSON() {
 
     // Ensure ./data exists
     const dataDir = "./data";
-    if (!fs.existsSync(dataDir)) {
-      fs.mkdirSync(dataDir);
-    }
+    if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir);
 
     // Ensure ./data/countries exists
     const countriesDir = "./data/countries";
-    if (!fs.existsSync(countriesDir)) {
-      fs.mkdirSync(countriesDir);
-    }
+    if (!fs.existsSync(countriesDir)) fs.mkdirSync(countriesDir);
 
     // Write the FULL JSON
     const fullPath = `${dataDir}/kinch.json`;
@@ -121,14 +117,22 @@ export async function updateKinchJSON() {
     // Write ONE JSON per country
     data.forEach((country) => {
       if (!country.code) return;
-
       const file = `${countriesDir}/${country.code}.json`;
       fs.writeFileSync(file, JSON.stringify(country, null, 2), "utf8");
     });
-
     console.log(`✔ Per-country JSONs saved to ${countriesDir}/`);
+
+    // -------- Write Top X JSONs --------
+    const topXs = [3, 5, 10, 20, 30, 40, 50, 100];
+    topXs.forEach((topN) => {
+      const topData = data.slice(0, topN);
+      const topPath = `${dataDir}/top${topN}.json`;
+      fs.writeFileSync(topPath, JSON.stringify(topData, null, 2), "utf8");
+      console.log(`✔ Top ${topN} countries JSON saved to ${topPath}`);
+    });
+
   } catch (err) {
-    console.error("❌ Error scraping Kinch:", err);
+    console.error("Error scraping Kinch:", err);
   }
 }
 
