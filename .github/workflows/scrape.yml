@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - "index.js"
+      - "scrape.js"
       - "src/**"               # re-run if scraper changes
 
 jobs:
@@ -14,30 +15,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout repo with credentials so we can push
       - name: Checkout repository
         uses: actions/checkout@v4
-
-        # This is needed so the workflow can push back to the repo
         with:
           persist-credentials: true
 
+      # 2. Setup Node.js
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      # 3. Install dependencies
       - name: Install dependencies
         run: npm install
 
+      # 4. Run the scraper
       - name: Run scraper
         run: node scrape.js
 
+      # 5. Commit and push results
       - name: Commit and push results
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          git add data/*.json
+          git add data/*.json data/countries/*.json
 
           # If nothing changed, do not commit
           if git diff --cached --quiet; then
@@ -46,4 +50,6 @@ jobs:
           fi
 
           git commit -m "Update Kinch data [auto]"
-          git push
+
+          # Use GitHub Actions token to push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
