@@ -2,9 +2,10 @@
 A simple API providing global kinch rankings and scores of all countries.
 
 # Documentation
-- All data is stored in JSON files.
+- All data is stored in static JSON files.
+- I don't want to pay for hosting, as doing so has the potential to cost a great deal of money.
 
-The API provides three different types of files:
+The API provides three different types of JSON:
 
 - `data/kinch.json`. The "godfather" file. All kinch data for all kinch countries is in this file. You can access it by navigating to [`https://raw.githubusercontent.com/owelton-rosie/kinch-api/main/data/kinch.json`](https://raw.githubusercontent.com/owelton-rosie/kinch-api/main/data/kinch.json).
 

@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Run the update script
-        run: node scrape.js
+        run: node scraper.js
 
       - name: Check for changes
         id: check_changes
