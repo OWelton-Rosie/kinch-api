@@ -1,55 +1,48 @@
-name: Scrape Kinch Data
+name: Update kinch
 
 on:
-  workflow_dispatch: {}        # allows manual runs
   schedule:
-    - cron: "0 0 * * *"        # runs once per day at 00:00 UTC
-  push:
-    paths:
-      - "index.js"
-      - "scrape.js"
-      - "src/**"               # re-run if scraper changes
+    - cron: "55 11 * * *" # Runs daily at 11:55 UTC
+  workflow_dispatch: # Allows manual triggering from GitHub UI
+
+permissions:
+  contents: write # Allows committing changes to the repo
 
 jobs:
-  scrape:
+  update-competitions:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repo with credentials so we can push
       - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
+        uses: actions/checkout@v2
 
-      # 2. Setup Node.js
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          node-version: 20
+          node-version: "20" # Use a stable Node.js version
 
-      # 3. Install dependencies
       - name: Install dependencies
         run: npm install
 
-      # 4. Run the scraper
-      - name: Run scraper
+      - name: Run the update script
         run: node scrape.js
 
-      # 5. Commit and push results
-      - name: Commit and push results
+      - name: Check for changes
+        id: check_changes
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-
-          git add data/*.json data/countries/*.json
-
-          # If nothing changed, do not commit
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
+          if git diff --quiet; then
+            echo "No changes detected."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected."
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
-          git commit -m "Update Kinch data [auto]"
-
-          # Use GitHub Actions token to push
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+      - name: Commit changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update the API"
+          git push
