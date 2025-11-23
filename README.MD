@@ -65,4 +65,4 @@ A country's JSON would look something like this:
 ```
 
 ## Getting help
-Most of the data is pretty self-explanatory, but if you encounter problems, feel free to [contact me](https://oweltonrosie.com/contact). Likewise, if you want to give feedback on the API, feel free to [contact me](https://oweltonrosie.com/contact).
+Most of the data is pretty self-explanatory, but if you encounter problems, feel free to [contact me](https://oweltonrosie.com/contact) and I'll try to help you. Likewise, if you want to give feedback on the API, feel free to [contact me](https://oweltonrosie.com/contact).
