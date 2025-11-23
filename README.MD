@@ -11,6 +11,9 @@ The API provides three different types of JSON:
 
 - `data/countries/country.json`. Each country has its own JSON file. The names are pulled from the [ISO alpha-2 country codes](en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements). You can access any country's JSON file by navigating to `raw.githubusercontent.com/owelton-rosie/kinch-api/main/data/countries/ISO.json`. For example, to access the New Zealand's JSON, navigate to [`raw.githubusercontent.com/owelton-rosie/kinch-api/main/data/countries/nz.json`](https://raw.githubusercontent.com/owelton-rosie/kinch-api/main/data/countries/nz.json). **Note that only countries with an NR in at least one event are captured in the API!**
 
+Note that all country codes are case-insensitive - `data/countries/NZ.json` will lead to `data/countries/nz.json`.
+
+
 - `data/topx.json`. There are JSON files that contain only the top x countries. The files are as of follows:
    - top 3 (`data/top3.json`)
    - top 5 (`data/top5.json`)
@@ -21,7 +24,8 @@ The API provides three different types of JSON:
    - top 50 (`data/top50.json`)
    - top 100 (`data/top100.json`)
 
-Note that all country codes are case-insensitive - `data/countries/NZ.json` will lead to `data/countries/nz.json`.
+    You can view a top x JSON file by navigating to `raw.githubusercontent.com/owelton-rosie/kinch-api/main/data/topx.json`. For example, to access the top 100 JSON, navigate to [`raw.githubusercontent.com/owelton-rosie/kinch-api/main/data/top100/json`](https://raw.githubusercontent.com/owelton-rosie/kinch-api/main/data/top100.json)
+
 
 ## What data does the API provide?
 The API provides the following data:
