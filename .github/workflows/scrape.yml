@@ -9,7 +9,7 @@ permissions:
   contents: write # Allows committing changes to the repo
 
 jobs:
-  update-competitions:
+  update-kinch:
     runs-on: ubuntu-latest
 
     steps:
