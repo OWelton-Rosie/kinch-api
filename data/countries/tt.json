@@ -1,9 +1,9 @@
 {
-  "rank": 119,
+  "rank": 116,
   "country": "Trinidad & Tobago",
   "code": "tt",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f9.png",
-  "overall": 17.53,
+  "overall": 18.14,
   "scores": {
     "222": 21.15,
     "333": 33.05,
@@ -18,6 +18,6 @@
     "minx": 18,
     "pyram": 17.01,
     "skewb": 19.05,
-    "sq1": 0
+    "sq1": 10.36
   }
 }
