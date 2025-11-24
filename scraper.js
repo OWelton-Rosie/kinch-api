@@ -1,4 +1,7 @@
-// index.js
+// scraping logic
+// this file is run by .github/workflows/scrape.yml
+
+
 import axios from "axios";
 import * as cheerio from "cheerio";
 import fs from "fs";
