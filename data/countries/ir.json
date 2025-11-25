@@ -3,7 +3,7 @@
   "country": "Iran",
   "code": "ir",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f7.png",
-  "overall": 46.1,
+  "overall": 46.2,
   "scores": {
     "222": 51.16,
     "333": 57.27,
@@ -17,7 +17,7 @@
     "clock": 40.57,
     "minx": 53.5,
     "pyram": 50.66,
-    "skewb": 43.22,
+    "skewb": 44.92,
     "sq1": 46.49
   }
 }
