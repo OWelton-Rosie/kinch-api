@@ -1,9 +1,9 @@
 {
-  "rank": 21,
+  "rank": 20,
   "country": "Philippines",
   "code": "ph",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ed.png",
-  "overall": 69,
+  "overall": 69.33,
   "scores": {
     "222": 64.71,
     "333": 76.02,
@@ -12,9 +12,9 @@
     "666": 79.1,
     "777": 77.47,
     "333bf": 82.94,
-    "333fm": 80.85,
+    "333fm": 83.1,
     "333oh": 95.43,
-    "clock": 84.33,
+    "clock": 87.6,
     "minx": 68.72,
     "pyram": 63.19,
     "skewb": 48.41,

@@ -438,25 +438,25 @@
   },
   {
     "rank": 20,
-    "country": "Spain",
-    "code": "es",
-    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1f8.png",
-    "overall": 69.32,
+    "country": "Philippines",
+    "code": "ph",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ed.png",
+    "overall": 69.33,
     "scores": {
-      "222": 76.52,
-      "333": 58.91,
-      "444": 70.42,
-      "555": 73.34,
-      "666": 70.29,
-      "777": 73.61,
-      "333bf": 74.97,
-      "333fm": 92.22,
-      "333oh": 69.93,
-      "clock": 71.52,
-      "minx": 75.72,
-      "pyram": 73.25,
-      "skewb": 88.96,
-      "sq1": 62.4
+      "222": 64.71,
+      "333": 76.02,
+      "444": 90.05,
+      "555": 80.03,
+      "666": 79.1,
+      "777": 77.47,
+      "333bf": 82.94,
+      "333fm": 83.1,
+      "333oh": 95.43,
+      "clock": 87.6,
+      "minx": 68.72,
+      "pyram": 63.19,
+      "skewb": 48.41,
+      "sq1": 51.62
     }
   }
 ]
