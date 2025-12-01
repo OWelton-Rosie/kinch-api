@@ -3,7 +3,7 @@
   "country": "Kenya",
   "code": "ke",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ea.png",
-  "overall": 23,
+  "overall": 23.02,
   "scores": {
     "222": 29.83,
     "333": 42.76,
@@ -15,7 +15,7 @@
     "333fm": 38.1,
     "333oh": 36.66,
     "clock": 17.71,
-    "minx": 32.85,
+    "minx": 33.11,
     "pyram": 22.73,
     "skewb": 16.21,
     "sq1": 12.14

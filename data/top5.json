@@ -96,7 +96,7 @@
     "country": "United Kingdom",
     "code": "gb",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png",
-    "overall": 79.24,
+    "overall": 79.26,
     "scores": {
       "222": 88,
       "333": 67.24,
@@ -111,7 +111,7 @@
       "minx": 90.63,
       "pyram": 73.25,
       "skewb": 75.27,
-      "sq1": 72.8
+      "sq1": 73.14
     }
   }
 ]
