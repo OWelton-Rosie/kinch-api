@@ -3,7 +3,7 @@
   "country": "Colombia",
   "code": "co",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f4.png",
-  "overall": 63.33,
+  "overall": 63.41,
   "scores": {
     "222": 73.95,
     "333": 62,
@@ -18,6 +18,6 @@
     "minx": 70.26,
     "pyram": 67.25,
     "skewb": 55.24,
-    "sq1": 61.49
+    "sq1": 62.74
   }
 }

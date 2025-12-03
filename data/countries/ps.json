@@ -1,13 +1,13 @@
 {
-  "rank": 90,
+  "rank": 88,
   "country": "Palestinian Territories",
   "code": "ps",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f8.png",
-  "overall": 30.19,
+  "overall": 30.79,
   "scores": {
     "222": 29.33,
     "333": 49.37,
-    "444": 58.25,
+    "444": 58.86,
     "555": 54.76,
     "666": 41.27,
     "777": 21.72,
@@ -15,9 +15,9 @@
     "333fm": 47.06,
     "333oh": 52.91,
     "clock": 19.53,
-    "minx": 47.26,
+    "minx": 49.38,
     "pyram": 27.71,
     "skewb": 29.03,
-    "sq1": 22.55
+    "sq1": 29.97
   }
 }
