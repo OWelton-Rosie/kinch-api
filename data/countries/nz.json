@@ -1,12 +1,12 @@
 {
-  "rank": 9,
+  "rank": 8,
   "country": "New Zealand",
   "code": "nz",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ff.png",
-  "overall": 75.5,
+  "overall": 75.86,
   "scores": {
     "222": 68.75,
-    "333": 65,
+    "333": 71.04,
     "444": 80.12,
     "555": 76.88,
     "666": 76.21,

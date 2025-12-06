@@ -162,6 +162,29 @@
   },
   {
     "rank": 8,
+    "country": "New Zealand",
+    "code": "nz",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ff.png",
+    "overall": 75.86,
+    "scores": {
+      "222": 68.75,
+      "333": 71.04,
+      "444": 80.12,
+      "555": 76.88,
+      "666": 76.21,
+      "777": 74.66,
+      "333bf": 68.17,
+      "333fm": 88.09,
+      "333oh": 91.15,
+      "clock": 100,
+      "minx": 90.6,
+      "pyram": 82.14,
+      "skewb": 60.62,
+      "sq1": 81.95
+    }
+  },
+  {
+    "rank": 9,
     "country": "South Korea",
     "code": "kr",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1f7.png",
@@ -181,29 +204,6 @@
       "pyram": 61.5,
       "skewb": 74.05,
       "sq1": 80.38
-    }
-  },
-  {
-    "rank": 9,
-    "country": "New Zealand",
-    "code": "nz",
-    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ff.png",
-    "overall": 75.5,
-    "scores": {
-      "222": 68.75,
-      "333": 65,
-      "444": 80.12,
-      "555": 76.88,
-      "666": 76.21,
-      "777": 74.66,
-      "333bf": 68.17,
-      "333fm": 88.09,
-      "333oh": 91.15,
-      "clock": 100,
-      "minx": 90.6,
-      "pyram": 82.14,
-      "skewb": 60.62,
-      "sq1": 81.95
     }
   },
   {
@@ -723,7 +723,7 @@
       "333": 62.1,
       "444": 73.03,
       "555": 68.27,
-      "666": 68.33,
+      "666": 68.44,
       "777": 67.87,
       "333bf": 66.08,
       "333fm": 89.41,

@@ -3,7 +3,7 @@
   "country": "Croatia",
   "code": "hr",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f7.png",
-  "overall": 50.39,
+  "overall": 50.57,
   "scores": {
     "222": 41.71,
     "333": 52.14,
@@ -17,7 +17,7 @@
     "clock": 46.89,
     "minx": 48.76,
     "pyram": 41.37,
-    "skewb": 41.39,
-    "sq1": 36.83
+    "skewb": 41.9,
+    "sq1": 39.37
   }
 }
