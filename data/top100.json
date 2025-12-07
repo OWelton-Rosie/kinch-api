@@ -96,13 +96,13 @@
     "country": "United Kingdom",
     "code": "gb",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png",
-    "overall": 79.26,
+    "overall": 79.33,
     "scores": {
       "222": 88,
       "333": 67.24,
       "444": 74.07,
       "555": 79.61,
-      "666": 77.47,
+      "666": 78.67,
       "777": 80.94,
       "333bf": 72.99,
       "333fm": 100,
@@ -142,12 +142,12 @@
     "country": "Russia",
     "code": "ru",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1fa.png",
-    "overall": 76.82,
+    "overall": 76.99,
     "scores": {
       "222": 80.73,
       "333": 74.29,
       "444": 93.05,
-      "555": 91.49,
+      "555": 94.39,
       "666": 92.16,
       "777": 87.47,
       "333bf": 70.43,
@@ -507,6 +507,29 @@
   },
   {
     "rank": 23,
+    "country": "Hong Kong SAR China",
+    "code": "hk",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f0.png",
+    "overall": 68.37,
+    "scores": {
+      "222": 68.22,
+      "333": 63.41,
+      "444": 83.96,
+      "555": 84.2,
+      "666": 83.9,
+      "777": 79.62,
+      "333bf": 80.21,
+      "333fm": 89.41,
+      "333oh": 83.28,
+      "clock": 69.11,
+      "minx": 74.35,
+      "pyram": 52.04,
+      "skewb": 48.41,
+      "sq1": 62.31
+    }
+  },
+  {
+    "rank": 24,
     "country": "Denmark",
     "code": "dk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1f0.png",
@@ -526,29 +549,6 @@
       "pyram": 61.5,
       "skewb": 66.5,
       "sq1": 84.8
-    }
-  },
-  {
-    "rank": 24,
-    "country": "Hong Kong SAR China",
-    "code": "hk",
-    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f0.png",
-    "overall": 68.2,
-    "scores": {
-      "222": 68.22,
-      "333": 63.41,
-      "444": 83.96,
-      "555": 84.2,
-      "666": 83.9,
-      "777": 79.62,
-      "333bf": 77.32,
-      "333fm": 89.41,
-      "333oh": 83.28,
-      "clock": 69.11,
-      "minx": 74.35,
-      "pyram": 52.04,
-      "skewb": 48.41,
-      "sq1": 62.31
     }
   },
   {
@@ -645,6 +645,29 @@
   },
   {
     "rank": 29,
+    "country": "Ireland",
+    "code": "ie",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1ea.png",
+    "overall": 64.7,
+    "scores": {
+      "222": 61.97,
+      "333": 60.94,
+      "444": 82.59,
+      "555": 85.41,
+      "666": 93.35,
+      "777": 89.88,
+      "333bf": 54.25,
+      "333fm": 77.65,
+      "333oh": 71.42,
+      "clock": 73.14,
+      "minx": 88.56,
+      "pyram": 64.61,
+      "skewb": 55.69,
+      "sq1": 56.39
+    }
+  },
+  {
+    "rank": 30,
     "country": "Norway",
     "code": "no",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f4.png",
@@ -664,29 +687,6 @@
       "pyram": 60.85,
       "skewb": 53.94,
       "sq1": 58.83
-    }
-  },
-  {
-    "rank": 30,
-    "country": "Ireland",
-    "code": "ie",
-    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1ea.png",
-    "overall": 64.29,
-    "scores": {
-      "222": 61.97,
-      "333": 60.94,
-      "444": 82.59,
-      "555": 84.82,
-      "666": 89.53,
-      "777": 87.31,
-      "333bf": 54.25,
-      "333fm": 77.65,
-      "333oh": 71.42,
-      "clock": 73.14,
-      "minx": 88.56,
-      "pyram": 64.61,
-      "skewb": 55.69,
-      "sq1": 56.39
     }
   },
   {
@@ -1108,22 +1108,22 @@
     "country": "Portugal",
     "code": "pt",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f9.png",
-    "overall": 48.72,
+    "overall": 49.61,
     "scores": {
       "222": 43.14,
       "333": 52.21,
       "444": 68.95,
       "555": 65.75,
       "666": 67.88,
-      "777": 64.01,
+      "777": 66.85,
       "333bf": 49.1,
       "333fm": 86.77,
-      "333oh": 51.09,
+      "333oh": 57.87,
       "clock": 50.11,
       "minx": 58.95,
       "pyram": 38.85,
       "skewb": 39.14,
-      "sq1": 50.05
+      "sq1": 52.85
     }
   },
   {
@@ -1154,11 +1154,11 @@
     "country": "Estonia",
     "code": "ee",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ea.png",
-    "overall": 47.93,
+    "overall": 47.97,
     "scores": {
       "222": 52.07,
       "333": 62.7,
-      "444": 66.9,
+      "444": 67.6,
       "555": 59.41,
       "666": 59.44,
       "777": 57.27,
@@ -1476,12 +1476,12 @@
     "country": "Macao SAR China",
     "code": "mo",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f4.png",
-    "overall": 44.18,
+    "overall": 44.23,
     "scores": {
       "222": 39.29,
       "333": 50.13,
       "444": 63.12,
-      "555": 66.69,
+      "555": 67.54,
       "666": 67.6,
       "777": 68.68,
       "333bf": 26.46,
@@ -2097,13 +2097,13 @@
     "country": "Moldova",
     "code": "md",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1e9.png",
-    "overall": 29.92,
+    "overall": 29.99,
     "scores": {
       "222": 46.81,
       "333": 42.16,
       "444": 49.76,
       "555": 47.71,
-      "666": 44.79,
+      "666": 46.09,
       "777": 39.67,
       "333bf": 7.72,
       "333fm": 41.26,
