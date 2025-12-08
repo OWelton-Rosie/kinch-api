@@ -1,9 +1,9 @@
 {
-  "rank": 146,
+  "rank": 145,
   "country": "Tanzania",
   "code": "tz",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1ff.png",
-  "overall": 3.75,
+  "overall": 4.15,
   "scores": {
     "222": 11.49,
     "333": 19.97,
@@ -13,7 +13,7 @@
     "777": 0,
     "333bf": 0,
     "333fm": 0,
-    "333oh": 0,
+    "333oh": 6.85,
     "clock": 0,
     "minx": 0,
     "pyram": 7.97,
