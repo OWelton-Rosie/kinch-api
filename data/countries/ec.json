@@ -3,7 +3,7 @@
   "country": "Ecuador",
   "code": "ec",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1e8.png",
-  "overall": 38.39,
+  "overall": 38.63,
   "scores": {
     "222": 43.56,
     "333": 47.79,
@@ -14,10 +14,10 @@
     "333bf": 22.06,
     "333fm": 53.64,
     "333oh": 52.16,
-    "clock": 36.16,
+    "clock": 38.24,
     "minx": 49.61,
     "pyram": 34.12,
     "skewb": 30.79,
-    "sq1": 28.47
+    "sq1": 30.22
   }
 }

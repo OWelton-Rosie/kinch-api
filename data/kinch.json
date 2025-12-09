@@ -323,6 +323,29 @@
   },
   {
     "rank": 15,
+    "country": "Argentina",
+    "code": "ar",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f7.png",
+    "overall": 71.28,
+    "scores": {
+      "222": 59.46,
+      "333": 65.55,
+      "444": 75.5,
+      "555": 74.39,
+      "666": 75.74,
+      "777": 75.28,
+      "333bf": 90.29,
+      "333fm": 89.41,
+      "333oh": 83.01,
+      "clock": 60.92,
+      "minx": 97.48,
+      "pyram": 55.29,
+      "skewb": 57.32,
+      "sq1": 67.69
+    }
+  },
+  {
+    "rank": 16,
     "country": "Netherlands",
     "code": "nl",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f1.png",
@@ -342,29 +365,6 @@
       "pyram": 75.16,
       "skewb": 64.93,
       "sq1": 72.68
-    }
-  },
-  {
-    "rank": 16,
-    "country": "Argentina",
-    "code": "ar",
-    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f7.png",
-    "overall": 70.39,
-    "scores": {
-      "222": 59.46,
-      "333": 65.55,
-      "444": 75.5,
-      "555": 74.39,
-      "666": 75.74,
-      "777": 73.65,
-      "333bf": 90.29,
-      "333fm": 89.41,
-      "333oh": 83.01,
-      "clock": 50.67,
-      "minx": 97.48,
-      "pyram": 55.29,
-      "skewb": 57.32,
-      "sq1": 67.69
     }
   },
   {
@@ -832,7 +832,7 @@
     "country": "Austria",
     "code": "at",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f9.png",
-    "overall": 60.92,
+    "overall": 61.1,
     "scores": {
       "222": 64.23,
       "333": 61.51,
@@ -844,7 +844,7 @@
       "333fm": 81.96,
       "333oh": 57.53,
       "clock": 56.36,
-      "minx": 48.7,
+      "minx": 51.71,
       "pyram": 46.56,
       "skewb": 41.39,
       "sq1": 42.63
@@ -1334,14 +1334,14 @@
     }
   },
   {
-    "rank": 59,
+    "rank": null,
     "country": "Venezuela",
     "code": "ve",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1ea.png",
-    "overall": 45.73,
+    "overall": 45.95,
     "scores": {
       "222": 53.01,
-      "333": 52.92,
+      "333": 56.2,
       "444": 70.42,
       "555": 67.79,
       "666": 65.12,
@@ -1350,7 +1350,7 @@
       "333fm": 62.11,
       "333oh": 65.37,
       "clock": 40,
-      "minx": 59.05,
+      "minx": 59.45,
       "pyram": 37.83,
       "skewb": 35.86,
       "sq1": 37.25
@@ -1637,7 +1637,7 @@
     "country": "Ecuador",
     "code": "ec",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1e8.png",
-    "overall": 38.39,
+    "overall": 38.63,
     "scores": {
       "222": 43.56,
       "333": 47.79,
@@ -1648,11 +1648,11 @@
       "333bf": 22.06,
       "333fm": 53.64,
       "333oh": 52.16,
-      "clock": 36.16,
+      "clock": 38.24,
       "minx": 49.61,
       "pyram": 34.12,
       "skewb": 30.79,
-      "sq1": 28.47
+      "sq1": 30.22
     }
   },
   {
