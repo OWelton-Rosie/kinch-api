@@ -3,7 +3,7 @@
   "country": "Malta",
   "code": "mt",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f9.png",
-  "overall": 25.71,
+  "overall": 25.75,
   "scores": {
     "222": 29.43,
     "333": 36.28,
@@ -18,6 +18,6 @@
     "minx": 27.31,
     "pyram": 27.06,
     "skewb": 19.38,
-    "sq1": 18.89
+    "sq1": 19.55
   }
 }
