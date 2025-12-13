@@ -3,7 +3,7 @@
   "country": "Mozambique",
   "code": "mz",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1ff.png",
-  "overall": 18.25,
+  "overall": 18.23,
   "scores": {
     "222": 25.73,
     "333": 30.93,
@@ -15,7 +15,7 @@
     "333fm": 0,
     "333oh": 25.75,
     "clock": 22.47,
-    "minx": 23.19,
+    "minx": 22.83,
     "pyram": 20.5,
     "skewb": 19.94,
     "sq1": 16.57

@@ -3,7 +3,7 @@
   "country": "France",
   "code": "fr",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1f7.png",
-  "overall": 70.35,
+  "overall": 70.28,
   "scores": {
     "222": 63.31,
     "333": 67.13,
@@ -15,7 +15,7 @@
     "333fm": 93.67,
     "333oh": 85.12,
     "clock": 76.09,
-    "minx": 77.94,
+    "minx": 76.74,
     "pyram": 61.17,
     "skewb": 72.49,
     "sq1": 69.83

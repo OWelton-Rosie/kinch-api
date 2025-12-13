@@ -3,7 +3,7 @@
   "country": "Romania",
   "code": "ro",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1f4.png",
-  "overall": 59.72,
+  "overall": 59.66,
   "scores": {
     "222": 72.13,
     "333": 73.17,
@@ -15,7 +15,7 @@
     "333fm": 67.83,
     "333oh": 92.23,
     "clock": 56.64,
-    "minx": 71.33,
+    "minx": 70.24,
     "pyram": 63.54,
     "skewb": 48.93,
     "sq1": 58.39

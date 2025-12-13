@@ -3,7 +3,7 @@
   "country": "Costa Rica",
   "code": "cr",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f7.png",
-  "overall": 39.24,
+  "overall": 39.18,
   "scores": {
     "222": 42.72,
     "333": 50.72,
@@ -15,7 +15,7 @@
     "333fm": 52.22,
     "333oh": 57.61,
     "clock": 24.51,
-    "minx": 65.68,
+    "minx": 64.67,
     "pyram": 41.37,
     "skewb": 38.38,
     "sq1": 37.77

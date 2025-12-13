@@ -3,7 +3,7 @@
   "country": "Denmark",
   "code": "dk",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1f0.png",
-  "overall": 68.31,
+  "overall": 68.25,
   "scores": {
     "222": 73.95,
     "333": 63.21,
@@ -15,7 +15,7 @@
     "333fm": 93.67,
     "333oh": 74.3,
     "clock": 57.65,
-    "minx": 66.59,
+    "minx": 65.57,
     "pyram": 61.5,
     "skewb": 66.5,
     "sq1": 84.8

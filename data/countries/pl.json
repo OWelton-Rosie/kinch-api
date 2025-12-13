@@ -3,7 +3,7 @@
   "country": "Poland",
   "code": "pl",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f1.png",
-  "overall": 85.88,
+  "overall": 85.8,
   "scores": {
     "222": 90.72,
     "333": 83.51,
@@ -15,7 +15,7 @@
     "333fm": 100,
     "333oh": 87.43,
     "clock": 89.68,
-    "minx": 80.39,
+    "minx": 79.16,
     "pyram": 68.45,
     "skewb": 100,
     "sq1": 80.8

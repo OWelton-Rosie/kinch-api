@@ -3,7 +3,7 @@
   "country": "Hungary",
   "code": "hu",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1fa.png",
-  "overall": 63.46,
+  "overall": 63.39,
   "scores": {
     "222": 70.4,
     "333": 62.1,
@@ -15,7 +15,7 @@
     "333fm": 89.41,
     "333oh": 72.76,
     "clock": 66.86,
-    "minx": 75.65,
+    "minx": 74.49,
     "pyram": 52.27,
     "skewb": 53.94,
     "sq1": 56.46

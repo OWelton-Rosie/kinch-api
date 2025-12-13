@@ -3,7 +3,7 @@
   "country": "Peru",
   "code": "pe",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ea.png",
-  "overall": 61.99,
+  "overall": 61.91,
   "scores": {
     "222": 64.71,
     "333": 62,
@@ -15,7 +15,7 @@
     "333fm": 73.75,
     "333oh": 72.08,
     "clock": 55.8,
-    "minx": 81.47,
+    "minx": 80.22,
     "pyram": 54.76,
     "skewb": 58.05,
     "sq1": 60.84

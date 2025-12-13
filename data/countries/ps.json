@@ -3,7 +3,7 @@
   "country": "Palestinian Territories",
   "code": "ps",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f8.png",
-  "overall": 30.79,
+  "overall": 30.75,
   "scores": {
     "222": 29.33,
     "333": 49.37,
@@ -15,7 +15,7 @@
     "333fm": 47.06,
     "333oh": 52.91,
     "clock": 19.53,
-    "minx": 49.38,
+    "minx": 48.62,
     "pyram": 27.71,
     "skewb": 29.03,
     "sq1": 29.97

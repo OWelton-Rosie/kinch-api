@@ -3,7 +3,7 @@
   "country": "Greece",
   "code": "gr",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f7.png",
-  "overall": 44.29,
+  "overall": 44.24,
   "scores": {
     "222": 50,
     "333": 51.32,
@@ -15,7 +15,7 @@
     "333fm": 61.54,
     "333oh": 61.86,
     "clock": 50.56,
-    "minx": 60.23,
+    "minx": 59.3,
     "pyram": 50,
     "skewb": 45.07,
     "sq1": 38.97

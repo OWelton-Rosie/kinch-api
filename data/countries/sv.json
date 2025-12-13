@@ -3,7 +3,7 @@
   "country": "El Salvador",
   "code": "sv",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1fb.png",
-  "overall": 34.34,
+  "overall": 34.3,
   "scores": {
     "222": 30.99,
     "333": 48.81,
@@ -15,7 +15,7 @@
     "333fm": 55.17,
     "333oh": 43.44,
     "clock": 26.28,
-    "minx": 43.17,
+    "minx": 42.5,
     "pyram": 27.12,
     "skewb": 32.78,
     "sq1": 34.86

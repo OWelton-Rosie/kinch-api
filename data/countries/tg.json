@@ -3,7 +3,7 @@
   "country": "Togo",
   "code": "tg",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1ec.png",
-  "overall": 17.31,
+  "overall": 17.3,
   "scores": {
     "222": 19.13,
     "333": 32.07,
@@ -15,7 +15,7 @@
     "333fm": 41.03,
     "333oh": 32.11,
     "clock": 0,
-    "minx": 9.38,
+    "minx": 9.24,
     "pyram": 10.62,
     "skewb": 11.73,
     "sq1": 9.05

@@ -3,7 +3,7 @@
   "country": "Oman",
   "code": "om",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f4-1f1f2.png",
-  "overall": 18.03,
+  "overall": 18.01,
   "scores": {
     "222": 35.2,
     "333": 41.85,
@@ -15,7 +15,7 @@
     "333fm": 0,
     "333oh": 34.98,
     "clock": 0,
-    "minx": 22.65,
+    "minx": 22.31,
     "pyram": 17.91,
     "skewb": 2.72,
     "sq1": 0

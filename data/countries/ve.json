@@ -1,9 +1,9 @@
 {
-  "rank": null,
+  "rank": 60,
   "country": "Venezuela",
   "code": "ve",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1ea.png",
-  "overall": 45.95,
+  "overall": 45.9,
   "scores": {
     "222": 53.01,
     "333": 56.2,
@@ -15,7 +15,7 @@
     "333fm": 62.11,
     "333oh": 65.37,
     "clock": 40,
-    "minx": 59.45,
+    "minx": 58.54,
     "pyram": 37.83,
     "skewb": 35.86,
     "sq1": 37.25

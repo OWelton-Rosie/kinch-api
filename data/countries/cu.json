@@ -3,7 +3,7 @@
   "country": "Cuba",
   "code": "cu",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1fa.png",
-  "overall": 12.07,
+  "overall": 12.06,
   "scores": {
     "222": 19.73,
     "333": 44.57,
@@ -15,7 +15,7 @@
     "333fm": 0,
     "333oh": 27.19,
     "clock": 12,
-    "minx": 13.3,
+    "minx": 13.09,
     "pyram": 9.48,
     "skewb": 18.95,
     "sq1": 9.73

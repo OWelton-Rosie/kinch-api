@@ -3,7 +3,7 @@
   "country": "Mauritius",
   "code": "mu",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fa.png",
-  "overall": 25.97,
+  "overall": 25.95,
   "scores": {
     "222": 30.99,
     "333": 38.27,
@@ -15,7 +15,7 @@
     "333fm": 45.4,
     "333oh": 42.6,
     "clock": 36.51,
-    "minx": 25.59,
+    "minx": 25.2,
     "pyram": 19.79,
     "skewb": 25.32,
     "sq1": 15.44

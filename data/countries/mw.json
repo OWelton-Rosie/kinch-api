@@ -3,7 +3,7 @@
   "country": "Malawi",
   "code": "mw",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fc.png",
-  "overall": 12.06,
+  "overall": 12.03,
   "scores": {
     "222": 25.14,
     "333": 36.52,
@@ -15,7 +15,7 @@
     "333fm": 0,
     "333oh": 37.15,
     "clock": 0,
-    "minx": 23.54,
+    "minx": 23.18,
     "pyram": 4.88,
     "skewb": 9.38,
     "sq1": 0

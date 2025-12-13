@@ -3,7 +3,7 @@
   "country": "Vietnam",
   "code": "vn",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1f3.png",
-  "overall": 63.28,
+  "overall": 63.21,
   "scores": {
     "222": 58.28,
     "333": 67.59,
@@ -15,7 +15,7 @@
     "333fm": 80.85,
     "333oh": 78.7,
     "clock": 72.44,
-    "minx": 69.63,
+    "minx": 68.56,
     "pyram": 47.52,
     "skewb": 57.32,
     "sq1": 55.78

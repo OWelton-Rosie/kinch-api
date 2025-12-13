@@ -3,7 +3,7 @@
   "country": "Honduras",
   "code": "hn",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f3.png",
-  "overall": 28.59,
+  "overall": 28.56,
   "scores": {
     "222": 30.45,
     "333": 43.43,
@@ -15,7 +15,7 @@
     "333fm": 48.48,
     "333oh": 43.08,
     "clock": 13.04,
-    "minx": 35.3,
+    "minx": 34.76,
     "pyram": 21.5,
     "skewb": 30.18,
     "sq1": 26.23

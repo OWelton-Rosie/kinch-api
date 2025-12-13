@@ -3,7 +3,7 @@
   "country": "Dominican Republic",
   "code": "do",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1f4.png",
-  "overall": 35.67,
+  "overall": 35.63,
   "scores": {
     "222": 44,
     "333": 56.69,
@@ -15,7 +15,7 @@
     "333fm": 64,
     "333oh": 64.93,
     "clock": 23.92,
-    "minx": 43.82,
+    "minx": 43.15,
     "pyram": 28.4,
     "skewb": 24.2,
     "sq1": 36.23

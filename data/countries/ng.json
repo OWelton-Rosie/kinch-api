@@ -3,7 +3,7 @@
   "country": "Nigeria",
   "code": "ng",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ec.png",
-  "overall": 42.09,
+  "overall": 42.04,
   "scores": {
     "222": 30.14,
     "333": 45.61,
@@ -15,7 +15,7 @@
     "333fm": 52.69,
     "333oh": 51.99,
     "clock": 29.58,
-    "minx": 55.18,
+    "minx": 54.33,
     "pyram": 23.37,
     "skewb": 35.31,
     "sq1": 57.37

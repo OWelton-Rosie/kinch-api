@@ -3,7 +3,7 @@
   "country": "Nepal",
   "code": "np",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f5.png",
-  "overall": 34.37,
+  "overall": 34.33,
   "scores": {
     "222": 32.84,
     "333": 49.37,
@@ -15,7 +15,7 @@
     "333fm": 53.33,
     "333oh": 56.89,
     "clock": 24.38,
-    "minx": 44.97,
+    "minx": 44.28,
     "pyram": 35.6,
     "skewb": 39.71,
     "sq1": 26.53

@@ -3,7 +3,7 @@
   "country": "New Zealand",
   "code": "nz",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ff.png",
-  "overall": 75.86,
+  "overall": 75.78,
   "scores": {
     "222": 68.75,
     "333": 71.04,
@@ -15,7 +15,7 @@
     "333fm": 88.09,
     "333oh": 91.15,
     "clock": 100,
-    "minx": 90.6,
+    "minx": 89.21,
     "pyram": 82.14,
     "skewb": 60.62,
     "sq1": 81.95

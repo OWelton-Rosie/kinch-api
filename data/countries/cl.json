@@ -3,7 +3,7 @@
   "country": "Chile",
   "code": "cl",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f1.png",
-  "overall": 58.12,
+  "overall": 58.05,
   "scores": {
     "222": 66.67,
     "333": 66.9,
@@ -15,7 +15,7 @@
     "333fm": 66.3,
     "333oh": 76.28,
     "clock": 53.18,
-    "minx": 78.06,
+    "minx": 76.86,
     "pyram": 56.93,
     "skewb": 66.18,
     "sq1": 60.21

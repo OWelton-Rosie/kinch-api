@@ -4,7 +4,7 @@
     "country": "United States",
     "code": "us",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png",
-    "overall": 96.19,
+    "overall": 96.11,
     "scores": {
       "222": 95.65,
       "333": 82.63,
@@ -16,7 +16,7 @@
       "333fm": 100,
       "333oh": 100,
       "clock": 97.84,
-      "minx": 88.68,
+      "minx": 87.32,
       "pyram": 81.56,
       "skewb": 90.13,
       "sq1": 100
@@ -27,7 +27,7 @@
     "country": "China",
     "code": "cn",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f3.png",
-    "overall": 89.15,
+    "overall": 89.06,
     "scores": {
       "222": 100,
       "333": 100,
@@ -39,7 +39,7 @@
       "333fm": 96.75,
       "333oh": 93.92,
       "clock": 76.87,
-      "minx": 100,
+      "minx": 98.47,
       "pyram": 96.64,
       "skewb": 89.54,
       "sq1": 74.08
@@ -50,7 +50,7 @@
     "country": "Poland",
     "code": "pl",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f1.png",
-    "overall": 85.88,
+    "overall": 85.8,
     "scores": {
       "222": 90.72,
       "333": 83.51,
@@ -62,7 +62,7 @@
       "333fm": 100,
       "333oh": 87.43,
       "clock": 89.68,
-      "minx": 80.39,
+      "minx": 79.16,
       "pyram": 68.45,
       "skewb": 100,
       "sq1": 80.8
@@ -73,7 +73,7 @@
     "country": "Australia",
     "code": "au",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1fa.png",
-    "overall": 82.65,
+    "overall": 82.58,
     "scores": {
       "222": 86.27,
       "333": 70.52,
@@ -85,7 +85,7 @@
       "333fm": 96.75,
       "333oh": 82.39,
       "clock": 88.63,
-      "minx": 76.14,
+      "minx": 74.97,
       "pyram": 100,
       "skewb": 74.46,
       "sq1": 87.69
@@ -96,7 +96,7 @@
     "country": "United Kingdom",
     "code": "gb",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png",
-    "overall": 79.33,
+    "overall": 79.25,
     "scores": {
       "222": 88,
       "333": 67.24,
@@ -108,7 +108,7 @@
       "333fm": 100,
       "333oh": 97.11,
       "clock": 84.33,
-      "minx": 90.63,
+      "minx": 89.24,
       "pyram": 73.25,
       "skewb": 75.27,
       "sq1": 73.14
@@ -119,7 +119,7 @@
     "country": "Canada",
     "code": "ca",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1e6.png",
-    "overall": 77.78,
+    "overall": 77.71,
     "scores": {
       "222": 69.84,
       "333": 73.58,
@@ -131,7 +131,7 @@
       "333fm": 89.41,
       "333oh": 80.92,
       "clock": 79.86,
-      "minx": 81.05,
+      "minx": 79.8,
       "pyram": 75.66,
       "skewb": 58.55,
       "sq1": 71.89
@@ -142,19 +142,19 @@
     "country": "Russia",
     "code": "ru",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1fa.png",
-    "overall": 76.99,
+    "overall": 77.17,
     "scores": {
       "222": 80.73,
       "333": 74.29,
       "444": 93.05,
       "555": 94.39,
-      "666": 92.16,
+      "666": 92.83,
       "777": 87.47,
       "333bf": 70.43,
       "333fm": 76.63,
       "333oh": 95.43,
       "clock": 72.9,
-      "minx": 97.63,
+      "minx": 100,
       "pyram": 75.16,
       "skewb": 59.05,
       "sq1": 61.08
@@ -165,7 +165,7 @@
     "country": "New Zealand",
     "code": "nz",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ff.png",
-    "overall": 75.86,
+    "overall": 75.78,
     "scores": {
       "222": 68.75,
       "333": 71.04,
@@ -177,7 +177,7 @@
       "333fm": 88.09,
       "333oh": 91.15,
       "clock": 100,
-      "minx": 90.6,
+      "minx": 89.21,
       "pyram": 82.14,
       "skewb": 60.62,
       "sq1": 81.95
@@ -188,7 +188,7 @@
     "country": "South Korea",
     "code": "kr",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1f7.png",
-    "overall": 75.71,
+    "overall": 75.64,
     "scores": {
       "222": 65.67,
       "333": 69.15,
@@ -200,7 +200,7 @@
       "333fm": 94.12,
       "333oh": 85.4,
       "clock": 65.32,
-      "minx": 85.79,
+      "minx": 84.48,
       "pyram": 61.5,
       "skewb": 74.05,
       "sq1": 80.38
@@ -211,7 +211,7 @@
     "country": "Singapore",
     "code": "sg",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ec.png",
-    "overall": 75.24,
+    "overall": 75.16,
     "scores": {
       "222": 97.78,
       "333": 61.03,
@@ -223,7 +223,7 @@
       "333fm": 98.35,
       "333oh": 80.42,
       "clock": 77.13,
-      "minx": 91.98,
+      "minx": 90.56,
       "pyram": 66.86,
       "skewb": 72.49,
       "sq1": 65.21
@@ -234,7 +234,7 @@
     "country": "Malaysia",
     "code": "my",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fe.png",
-    "overall": 74.05,
+    "overall": 73.99,
     "scores": {
       "222": 64.23,
       "333": 64.57,
@@ -246,7 +246,7 @@
       "333fm": 89.41,
       "333oh": 80.33,
       "clock": 61.25,
-      "minx": 74.96,
+      "minx": 73.81,
       "pyram": 67.25,
       "skewb": 50.18,
       "sq1": 62.91
@@ -257,7 +257,7 @@
     "country": "Switzerland",
     "code": "ch",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1ed.png",
-    "overall": 73.58,
+    "overall": 73.52,
     "scores": {
       "222": 60.27,
       "333": 65.55,
@@ -269,7 +269,7 @@
       "333fm": 89.41,
       "333oh": 94.96,
       "clock": 73.14,
-      "minx": 71.56,
+      "minx": 70.46,
       "pyram": 61.83,
       "skewb": 55.24,
       "sq1": 62.91
@@ -280,7 +280,7 @@
     "country": "Germany",
     "code": "de",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1ea.png",
-    "overall": 72.3,
+    "overall": 72.23,
     "scores": {
       "222": 69.29,
       "333": 68.9,
@@ -292,7 +292,7 @@
       "333fm": 93.67,
       "333oh": 89.04,
       "clock": 70.63,
-      "minx": 74.18,
+      "minx": 73.04,
       "pyram": 67.65,
       "skewb": 59.57,
       "sq1": 62.06
@@ -303,7 +303,7 @@
     "country": "Sweden",
     "code": "se",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ea.png",
-    "overall": 72.25,
+    "overall": 72.19,
     "scores": {
       "222": 82.24,
       "333": 64.68,
@@ -315,7 +315,7 @@
       "333fm": 89.41,
       "333oh": 71.02,
       "clock": 72.67,
-      "minx": 69.47,
+      "minx": 68.41,
       "pyram": 63.19,
       "skewb": 63.13,
       "sq1": 64.48
@@ -326,7 +326,7 @@
     "country": "Argentina",
     "code": "ar",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f7.png",
-    "overall": 71.28,
+    "overall": 71.2,
     "scores": {
       "222": 59.46,
       "333": 65.55,
@@ -338,7 +338,7 @@
       "333fm": 89.41,
       "333oh": 83.01,
       "clock": 60.92,
-      "minx": 97.48,
+      "minx": 95.98,
       "pyram": 55.29,
       "skewb": 57.32,
       "sq1": 67.69
@@ -349,7 +349,7 @@
     "country": "Netherlands",
     "code": "nl",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f1.png",
-    "overall": 70.63,
+    "overall": 70.57,
     "scores": {
       "222": 90.72,
       "333": 71.69,
@@ -361,7 +361,7 @@
       "333fm": 80,
       "333oh": 71.28,
       "clock": 77.66,
-      "minx": 65.87,
+      "minx": 64.86,
       "pyram": 75.16,
       "skewb": 64.93,
       "sq1": 72.68
@@ -372,7 +372,7 @@
     "country": "France",
     "code": "fr",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1f7.png",
-    "overall": 70.35,
+    "overall": 70.28,
     "scores": {
       "222": 63.31,
       "333": 67.13,
@@ -384,7 +384,7 @@
       "333fm": 93.67,
       "333oh": 85.12,
       "clock": 76.09,
-      "minx": 77.94,
+      "minx": 76.74,
       "pyram": 61.17,
       "skewb": 72.49,
       "sq1": 69.83
@@ -395,7 +395,7 @@
     "country": "Spain",
     "code": "es",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1f8.png",
-    "overall": 69.52,
+    "overall": 69.45,
     "scores": {
       "222": 76.52,
       "333": 58.91,
@@ -407,7 +407,7 @@
       "333fm": 92.22,
       "333oh": 70.83,
       "clock": 74.1,
-      "minx": 75.72,
+      "minx": 74.56,
       "pyram": 73.25,
       "skewb": 88.96,
       "sq1": 62.4
@@ -418,7 +418,7 @@
     "country": "Philippines",
     "code": "ph",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ed.png",
-    "overall": 69.42,
+    "overall": 69.36,
     "scores": {
       "222": 64.71,
       "333": 76.02,
@@ -430,7 +430,7 @@
       "333fm": 83.1,
       "333oh": 95.43,
       "clock": 87.6,
-      "minx": 68.72,
+      "minx": 67.67,
       "pyram": 63.19,
       "skewb": 48.58,
       "sq1": 51.62
@@ -441,7 +441,7 @@
     "country": "Chinese Taipei",
     "code": "tw",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1fc.png",
-    "overall": 69.41,
+    "overall": 69.34,
     "scores": {
       "222": 62.86,
       "333": 68.54,
@@ -453,7 +453,7 @@
       "333fm": 83.1,
       "333oh": 76.51,
       "clock": 71.75,
-      "minx": 76.89,
+      "minx": 75.71,
       "pyram": 66.47,
       "skewb": 66.5,
       "sq1": 74.56
@@ -464,7 +464,7 @@
     "country": "India",
     "code": "in",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f3.png",
-    "overall": 69.35,
+    "overall": 69.28,
     "scores": {
       "222": 70.97,
       "333": 60.94,
@@ -476,7 +476,7 @@
       "333fm": 89.41,
       "333oh": 84.74,
       "clock": 62.95,
-      "minx": 79.85,
+      "minx": 78.62,
       "pyram": 69.28,
       "skewb": 65.87,
       "sq1": 52.08
@@ -487,7 +487,7 @@
     "country": "Brazil",
     "code": "br",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png",
-    "overall": 68.74,
+    "overall": 68.68,
     "scores": {
       "222": 61.97,
       "333": 71.69,
@@ -499,7 +499,7 @@
       "333fm": 94.12,
       "333oh": 82.13,
       "clock": 59.16,
-      "minx": 71.81,
+      "minx": 70.71,
       "pyram": 53.74,
       "skewb": 60.09,
       "sq1": 84.8
@@ -510,7 +510,7 @@
     "country": "Italy",
     "code": "it",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f9.png",
-    "overall": 68.51,
+    "overall": 68.44,
     "scores": {
       "222": 65.19,
       "333": 68.66,
@@ -522,7 +522,7 @@
       "333fm": 100,
       "333oh": 78.86,
       "clock": 68.07,
-      "minx": 80.6,
+      "minx": 79.36,
       "pyram": 66.47,
       "skewb": 64.93,
       "sq1": 85.27
@@ -533,7 +533,7 @@
     "country": "Hong Kong SAR China",
     "code": "hk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f0.png",
-    "overall": 68.37,
+    "overall": 68.3,
     "scores": {
       "222": 68.22,
       "333": 63.41,
@@ -545,7 +545,7 @@
       "333fm": 89.41,
       "333oh": 83.28,
       "clock": 69.11,
-      "minx": 74.35,
+      "minx": 73.21,
       "pyram": 52.04,
       "skewb": 48.41,
       "sq1": 62.31
@@ -556,7 +556,7 @@
     "country": "Denmark",
     "code": "dk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1f0.png",
-    "overall": 68.31,
+    "overall": 68.25,
     "scores": {
       "222": 73.95,
       "333": 63.21,
@@ -568,7 +568,7 @@
       "333fm": 93.67,
       "333oh": 74.3,
       "clock": 57.65,
-      "minx": 66.59,
+      "minx": 65.57,
       "pyram": 61.5,
       "skewb": 66.5,
       "sq1": 84.8
@@ -579,7 +579,7 @@
     "country": "Japan",
     "code": "jp",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ef-1f1f5.png",
-    "overall": 67.18,
+    "overall": 67.11,
     "scores": {
       "222": 56.05,
       "333": 61.13,
@@ -591,7 +591,7 @@
       "333fm": 90.77,
       "333oh": 75.24,
       "clock": 65.13,
-      "minx": 77.91,
+      "minx": 76.71,
       "pyram": 63.19,
       "skewb": 66.5,
       "sq1": 72.01
@@ -602,7 +602,7 @@
     "country": "Indonesia",
     "code": "id",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1e9.png",
-    "overall": 67.06,
+    "overall": 66.99,
     "scores": {
       "222": 59.46,
       "333": 65,
@@ -614,7 +614,7 @@
       "333fm": 96.75,
       "333oh": 91.8,
       "clock": 53.94,
-      "minx": 78.78,
+      "minx": 77.57,
       "pyram": 55.83,
       "skewb": 64.32,
       "sq1": 64.66
@@ -625,7 +625,7 @@
     "country": "Israel",
     "code": "il",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f1.png",
-    "overall": 66.16,
+    "overall": 66.09,
     "scores": {
       "222": 80.73,
       "333": 66.33,
@@ -637,7 +637,7 @@
       "333fm": 86.77,
       "333oh": 83.1,
       "clock": 56.08,
-      "minx": 75.05,
+      "minx": 73.9,
       "pyram": 68.45,
       "skewb": 56.85,
       "sq1": 74.56
@@ -648,7 +648,7 @@
     "country": "Norway",
     "code": "no",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f4.png",
-    "overall": 64.72,
+    "overall": 64.66,
     "scores": {
       "222": 77.88,
       "333": 69.15,
@@ -660,7 +660,7 @@
       "333fm": 81.96,
       "333oh": 78.7,
       "clock": 79.86,
-      "minx": 67.47,
+      "minx": 66.43,
       "pyram": 60.85,
       "skewb": 53.94,
       "sq1": 58.83
@@ -671,7 +671,7 @@
     "country": "Ireland",
     "code": "ie",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1ea.png",
-    "overall": 64.7,
+    "overall": 64.62,
     "scores": {
       "222": 61.97,
       "333": 60.94,
@@ -683,7 +683,7 @@
       "333fm": 77.65,
       "333oh": 71.42,
       "clock": 73.14,
-      "minx": 88.56,
+      "minx": 87.2,
       "pyram": 64.61,
       "skewb": 55.69,
       "sq1": 56.39
@@ -694,7 +694,7 @@
     "country": "Finland",
     "code": "fi",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1eb-1f1ee.png",
-    "overall": 64.12,
+    "overall": 64.05,
     "scores": {
       "222": 54.66,
       "333": 57.27,
@@ -706,7 +706,7 @@
       "333fm": 86.77,
       "333oh": 73.52,
       "clock": 82.18,
-      "minx": 83.76,
+      "minx": 82.48,
       "pyram": 54.5,
       "skewb": 67.16,
       "sq1": 68.59
@@ -717,7 +717,7 @@
     "country": "Hungary",
     "code": "hu",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1fa.png",
-    "overall": 63.46,
+    "overall": 63.39,
     "scores": {
       "222": 70.4,
       "333": 62.1,
@@ -729,7 +729,7 @@
       "333fm": 89.41,
       "333oh": 72.76,
       "clock": 66.86,
-      "minx": 75.65,
+      "minx": 74.49,
       "pyram": 52.27,
       "skewb": 53.94,
       "sq1": 56.46
@@ -740,7 +740,7 @@
     "country": "Colombia",
     "code": "co",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f4.png",
-    "overall": 63.41,
+    "overall": 63.34,
     "scores": {
       "222": 73.95,
       "333": 62,
@@ -752,7 +752,7 @@
       "333fm": 80,
       "333oh": 64.12,
       "clock": 67.06,
-      "minx": 70.26,
+      "minx": 69.18,
       "pyram": 67.25,
       "skewb": 55.24,
       "sq1": 62.74
@@ -763,7 +763,7 @@
     "country": "Vietnam",
     "code": "vn",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1f3.png",
-    "overall": 63.28,
+    "overall": 63.21,
     "scores": {
       "222": 58.28,
       "333": 67.59,
@@ -775,7 +775,7 @@
       "333fm": 80.85,
       "333oh": 78.7,
       "clock": 72.44,
-      "minx": 69.63,
+      "minx": 68.56,
       "pyram": 47.52,
       "skewb": 57.32,
       "sq1": 55.78
@@ -786,7 +786,7 @@
     "country": "Mexico",
     "code": "mx",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fd.png",
-    "overall": 62.87,
+    "overall": 62.8,
     "scores": {
       "222": 68.22,
       "333": 63,
@@ -798,7 +798,7 @@
       "333fm": 72.73,
       "333oh": 85.87,
       "clock": 58.25,
-      "minx": 75.01,
+      "minx": 73.86,
       "pyram": 57.79,
       "skewb": 63.13,
       "sq1": 65.86
@@ -809,7 +809,7 @@
     "country": "Peru",
     "code": "pe",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ea.png",
-    "overall": 61.99,
+    "overall": 61.91,
     "scores": {
       "222": 64.71,
       "333": 62,
@@ -821,7 +821,7 @@
       "333fm": 73.75,
       "333oh": 72.08,
       "clock": 55.8,
-      "minx": 81.47,
+      "minx": 80.22,
       "pyram": 54.76,
       "skewb": 58.05,
       "sq1": 60.84
@@ -832,7 +832,7 @@
     "country": "Austria",
     "code": "at",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f9.png",
-    "overall": 61.1,
+    "overall": 61.05,
     "scores": {
       "222": 64.23,
       "333": 61.51,
@@ -844,7 +844,7 @@
       "333fm": 81.96,
       "333oh": 57.53,
       "clock": 56.36,
-      "minx": 51.71,
+      "minx": 50.92,
       "pyram": 46.56,
       "skewb": 41.39,
       "sq1": 42.63
@@ -855,7 +855,7 @@
     "country": "Czechia",
     "code": "cz",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1ff.png",
-    "overall": 60.86,
+    "overall": 60.8,
     "scores": {
       "222": 60.27,
       "333": 61.22,
@@ -867,7 +867,7 @@
       "333fm": 92.22,
       "333oh": 67.78,
       "clock": 64.76,
-      "minx": 64.9,
+      "minx": 63.91,
       "pyram": 70.12,
       "skewb": 76.97,
       "sq1": 62.31
@@ -878,7 +878,7 @@
     "country": "Thailand",
     "code": "th",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1ed.png",
-    "overall": 59.85,
+    "overall": 59.78,
     "scores": {
       "222": 58.67,
       "333": 61.13,
@@ -890,7 +890,7 @@
       "333fm": 81.96,
       "333oh": 80,
       "clock": 57.07,
-      "minx": 72.5,
+      "minx": 71.39,
       "pyram": 45.45,
       "skewb": 54.58,
       "sq1": 57.59
@@ -901,7 +901,7 @@
     "country": "Romania",
     "code": "ro",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1f4.png",
-    "overall": 59.72,
+    "overall": 59.66,
     "scores": {
       "222": 72.13,
       "333": 73.17,
@@ -913,7 +913,7 @@
       "333fm": 67.83,
       "333oh": 92.23,
       "clock": 56.64,
-      "minx": 71.33,
+      "minx": 70.24,
       "pyram": 63.54,
       "skewb": 48.93,
       "sq1": 58.39
@@ -924,7 +924,7 @@
     "country": "Chile",
     "code": "cl",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f1.png",
-    "overall": 58.12,
+    "overall": 58.05,
     "scores": {
       "222": 66.67,
       "333": 66.9,
@@ -936,7 +936,7 @@
       "333fm": 66.3,
       "333oh": 76.28,
       "clock": 53.18,
-      "minx": 78.06,
+      "minx": 76.86,
       "pyram": 56.93,
       "skewb": 66.18,
       "sq1": 60.21
@@ -947,7 +947,7 @@
     "country": "Ukraine",
     "code": "ua",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1e6.png",
-    "overall": 56.61,
+    "overall": 56.54,
     "scores": {
       "222": 52.69,
       "333": 63.52,
@@ -959,7 +959,7 @@
       "333fm": 92.22,
       "333oh": 72.15,
       "clock": 50.45,
-      "minx": 72.91,
+      "minx": 71.79,
       "pyram": 46.75,
       "skewb": 61.99,
       "sq1": 53.22
@@ -970,7 +970,7 @@
     "country": "South Africa",
     "code": "za",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ff-1f1e6.png",
-    "overall": 55.37,
+    "overall": 55.32,
     "scores": {
       "222": 55.35,
       "333": 64.46,
@@ -982,7 +982,7 @@
       "333fm": 73.75,
       "333oh": 69.3,
       "clock": 40.5,
-      "minx": 61.03,
+      "minx": 60.09,
       "pyram": 43.73,
       "skewb": 47.08,
       "sq1": 48.99
@@ -993,7 +993,7 @@
     "country": "Slovakia",
     "code": "sk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1f0.png",
-    "overall": 54.68,
+    "overall": 54.62,
     "scores": {
       "222": 58.67,
       "333": 56.03,
@@ -1005,7 +1005,7 @@
       "333fm": 65.57,
       "333oh": 66.61,
       "clock": 54.2,
-      "minx": 65.99,
+      "minx": 64.98,
       "pyram": 53.49,
       "skewb": 50.18,
       "sq1": 47.54
@@ -1016,7 +1016,7 @@
     "country": "Slovenia",
     "code": "si",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1ee.png",
-    "overall": 53.39,
+    "overall": 53.32,
     "scores": {
       "222": 52.69,
       "333": 54.62,
@@ -1028,7 +1028,7 @@
       "333fm": 76.19,
       "333oh": 60.31,
       "clock": 53.94,
-      "minx": 68.55,
+      "minx": 67.5,
       "pyram": 48.73,
       "skewb": 55.92,
       "sq1": 51.33
@@ -1039,7 +1039,7 @@
     "country": "Belgium",
     "code": "be",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ea.png",
-    "overall": 52.71,
+    "overall": 52.66,
     "scores": {
       "222": 54.32,
       "333": 54.78,
@@ -1051,7 +1051,7 @@
       "333fm": 72.73,
       "333oh": 60.69,
       "clock": 71.52,
-      "minx": 57.49,
+      "minx": 56.61,
       "pyram": 47.13,
       "skewb": 63.43,
       "sq1": 55.72
@@ -1062,7 +1062,7 @@
     "country": "Turkey",
     "code": "tr",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f7.png",
-    "overall": 51.74,
+    "overall": 51.7,
     "scores": {
       "222": 56.77,
       "333": 57.86,
@@ -1074,7 +1074,7 @@
       "333fm": 72.73,
       "333oh": 76.21,
       "clock": 43.3,
-      "minx": 52.5,
+      "minx": 51.7,
       "pyram": 44.75,
       "skewb": 48.41,
       "sq1": 51.16
@@ -1085,7 +1085,7 @@
     "country": "Croatia",
     "code": "hr",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f7.png",
-    "overall": 50.57,
+    "overall": 50.53,
     "scores": {
       "222": 41.71,
       "333": 52.14,
@@ -1097,7 +1097,7 @@
       "333fm": 67.06,
       "333oh": 55.66,
       "clock": 46.89,
-      "minx": 48.76,
+      "minx": 48.01,
       "pyram": 41.37,
       "skewb": 41.9,
       "sq1": 39.37
@@ -1108,7 +1108,7 @@
     "country": "Portugal",
     "code": "pt",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f9.png",
-    "overall": 49.72,
+    "overall": 49.66,
     "scores": {
       "222": 43.14,
       "333": 52.21,
@@ -1120,7 +1120,7 @@
       "333fm": 86.77,
       "333oh": 57.87,
       "clock": 50.11,
-      "minx": 58.95,
+      "minx": 58.05,
       "pyram": 38.85,
       "skewb": 39.14,
       "sq1": 52.85
@@ -1131,7 +1131,7 @@
     "country": "Bolivia",
     "code": "bo",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f4.png",
-    "overall": 48.64,
+    "overall": 48.59,
     "scores": {
       "222": 47.31,
       "333": 56.12,
@@ -1143,7 +1143,7 @@
       "333fm": 84.21,
       "333oh": 67.9,
       "clock": 42.97,
-      "minx": 61.44,
+      "minx": 60.5,
       "pyram": 46.75,
       "skewb": 38.92,
       "sq1": 46.86
@@ -1154,7 +1154,7 @@
     "country": "Estonia",
     "code": "ee",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ea.png",
-    "overall": 48.25,
+    "overall": 48.21,
     "scores": {
       "222": 52.07,
       "333": 62.7,
@@ -1166,7 +1166,7 @@
       "333fm": 65.57,
       "333oh": 65.15,
       "clock": 59.16,
-      "minx": 52.17,
+      "minx": 51.37,
       "pyram": 58.08,
       "skewb": 38.48,
       "sq1": 42.13
@@ -1177,7 +1177,7 @@
     "country": "Mongolia",
     "code": "mn",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f3.png",
-    "overall": 48.19,
+    "overall": 48.14,
     "scores": {
       "222": 47.31,
       "333": 58.21,
@@ -1189,7 +1189,7 @@
       "333fm": 55.17,
       "333oh": 67.78,
       "clock": 63.66,
-      "minx": 52.36,
+      "minx": 51.55,
       "pyram": 64.97,
       "skewb": 45.36,
       "sq1": 47.98
@@ -1200,7 +1200,7 @@
     "country": "Uruguay",
     "code": "uy",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1fe.png",
-    "overall": 47.04,
+    "overall": 46.99,
     "scores": {
       "222": 35.77,
       "333": 47.74,
@@ -1212,7 +1212,7 @@
       "333fm": 69.57,
       "333oh": 59.8,
       "clock": 69.33,
-      "minx": 61.03,
+      "minx": 60.09,
       "pyram": 51.8,
       "skewb": 50,
       "sq1": 40.61
@@ -1223,7 +1223,7 @@
     "country": "Kazakhstan",
     "code": "kz",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ff.png",
-    "overall": 46.72,
+    "overall": 46.67,
     "scores": {
       "222": 40.74,
       "333": 56.52,
@@ -1235,7 +1235,7 @@
       "333fm": 70.25,
       "333oh": 63.54,
       "clock": 46.79,
-      "minx": 58.26,
+      "minx": 57.36,
       "pyram": 43.4,
       "skewb": 37.64,
       "sq1": 55.52
@@ -1246,7 +1246,7 @@
     "country": "Lithuania",
     "code": "lt",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1f9.png",
-    "overall": 46.55,
+    "overall": 46.5,
     "scores": {
       "222": 40.37,
       "333": 64.46,
@@ -1258,7 +1258,7 @@
       "333fm": 55.17,
       "333oh": 83.91,
       "clock": 45.47,
-      "minx": 52.06,
+      "minx": 51.26,
       "pyram": 38.33,
       "skewb": 38.59,
       "sq1": 48.23
@@ -1269,7 +1269,7 @@
     "country": "Iran",
     "code": "ir",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f7.png",
-    "overall": 46.2,
+    "overall": 46.15,
     "scores": {
       "222": 51.16,
       "333": 57.27,
@@ -1281,7 +1281,7 @@
       "333fm": 80,
       "333oh": 63.02,
       "clock": 40.57,
-      "minx": 53.5,
+      "minx": 52.68,
       "pyram": 50.66,
       "skewb": 44.92,
       "sq1": 46.49
@@ -1292,7 +1292,7 @@
     "country": "Jordan",
     "code": "jo",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ef-1f1f4.png",
-    "overall": 46.12,
+    "overall": 46.07,
     "scores": {
       "222": 43.78,
       "333": 44.17,
@@ -1304,7 +1304,7 @@
       "333fm": 61.54,
       "333oh": 50.59,
       "clock": 42.72,
-      "minx": 50.48,
+      "minx": 49.7,
       "pyram": 25.84,
       "skewb": 36.83,
       "sq1": 36.51
@@ -1312,10 +1312,33 @@
   },
   {
     "rank": 58,
+    "country": "Uzbekistan",
+    "code": "uz",
+    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1ff.png",
+    "overall": 45.92,
+    "scores": {
+      "222": 48.62,
+      "333": 58.04,
+      "444": 67.29,
+      "555": 63.83,
+      "666": 59.06,
+      "777": 58.32,
+      "333bf": 30.19,
+      "333fm": 66.67,
+      "333oh": 64.82,
+      "clock": 31.79,
+      "minx": 68.99,
+      "pyram": 36.51,
+      "skewb": 37.33,
+      "sq1": 38.01
+    }
+  },
+  {
+    "rank": 59,
     "country": "Bulgaria",
     "code": "bg",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ec.png",
-    "overall": 45.95,
+    "overall": 45.91,
     "scores": {
       "222": 53.99,
       "333": 55.24,
@@ -1327,18 +1350,18 @@
       "333fm": 61.47,
       "333oh": 68.02,
       "clock": 45.75,
-      "minx": 46.86,
+      "minx": 46.14,
       "pyram": 57.79,
       "skewb": 37.23,
       "sq1": 46.12
     }
   },
   {
-    "rank": null,
+    "rank": 60,
     "country": "Venezuela",
     "code": "ve",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fb-1f1ea.png",
-    "overall": 45.95,
+    "overall": 45.9,
     "scores": {
       "222": 53.01,
       "333": 56.2,
@@ -1350,18 +1373,18 @@
       "333fm": 62.11,
       "333oh": 65.37,
       "clock": 40,
-      "minx": 59.45,
+      "minx": 58.54,
       "pyram": 37.83,
       "skewb": 35.86,
       "sq1": 37.25
     }
   },
   {
-    "rank": 60,
+    "rank": 61,
     "country": "Guatemala",
     "code": "gt",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f9.png",
-    "overall": 45.69,
+    "overall": 45.64,
     "scores": {
       "222": 44.9,
       "333": 50.26,
@@ -1373,33 +1396,10 @@
       "333fm": 61.54,
       "333oh": 57.78,
       "clock": 30.46,
-      "minx": 52.83,
+      "minx": 52.02,
       "pyram": 38.85,
       "skewb": 33.41,
       "sq1": 35
-    }
-  },
-  {
-    "rank": 61,
-    "country": "Uzbekistan",
-    "code": "uz",
-    "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1ff.png",
-    "overall": 45.46,
-    "scores": {
-      "222": 48.62,
-      "333": 58.04,
-      "444": 65.57,
-      "555": 59.8,
-      "666": 59.06,
-      "777": 55.15,
-      "333bf": 30.19,
-      "333fm": 66.67,
-      "333oh": 64.82,
-      "clock": 31.79,
-      "minx": 70.06,
-      "pyram": 36.51,
-      "skewb": 37.33,
-      "sq1": 38.01
     }
   },
   {
@@ -1407,7 +1407,7 @@
     "country": "Bangladesh",
     "code": "bd",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1e9.png",
-    "overall": 44.99,
+    "overall": 44.93,
     "scores": {
       "222": 45.13,
       "333": 57.27,
@@ -1419,7 +1419,7 @@
       "333fm": 69.57,
       "333oh": 62.26,
       "clock": 36.93,
-      "minx": 64.13,
+      "minx": 63.14,
       "pyram": 43.23,
       "skewb": 48.07,
       "sq1": 43.03
@@ -1430,7 +1430,7 @@
     "country": "Latvia",
     "code": "lv",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1fb.png",
-    "overall": 44.86,
+    "overall": 44.81,
     "scores": {
       "222": 49.72,
       "333": 49.74,
@@ -1442,7 +1442,7 @@
       "333fm": 64.85,
       "333oh": 52.95,
       "clock": 49.89,
-      "minx": 57.47,
+      "minx": 56.59,
       "pyram": 40.49,
       "skewb": 36.53,
       "sq1": 48.33
@@ -1453,7 +1453,7 @@
     "country": "Greece",
     "code": "gr",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f7.png",
-    "overall": 44.29,
+    "overall": 44.24,
     "scores": {
       "222": 50,
       "333": 51.32,
@@ -1465,7 +1465,7 @@
       "333fm": 61.54,
       "333oh": 61.86,
       "clock": 50.56,
-      "minx": 60.23,
+      "minx": 59.3,
       "pyram": 50,
       "skewb": 45.07,
       "sq1": 38.97
@@ -1476,7 +1476,7 @@
     "country": "Macao SAR China",
     "code": "mo",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f4.png",
-    "overall": 44.23,
+    "overall": 44.19,
     "scores": {
       "222": 39.29,
       "333": 50.13,
@@ -1488,7 +1488,7 @@
       "333fm": 56.2,
       "333oh": 57.06,
       "clock": 44.31,
-      "minx": 47.7,
+      "minx": 46.97,
       "pyram": 38.46,
       "skewb": 39.6,
       "sq1": 42.09
@@ -1499,7 +1499,7 @@
     "country": "Serbia",
     "code": "rs",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f7-1f1f8.png",
-    "overall": 42.83,
+    "overall": 42.78,
     "scores": {
       "222": 40.93,
       "333": 53.13,
@@ -1511,7 +1511,7 @@
       "333fm": 59.26,
       "333oh": 71.28,
       "clock": 36.28,
-      "minx": 62.26,
+      "minx": 61.3,
       "pyram": 36.39,
       "skewb": 37.64,
       "sq1": 40.33
@@ -1522,7 +1522,7 @@
     "country": "Belarus",
     "code": "by",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1fe.png",
-    "overall": 42.3,
+    "overall": 42.25,
     "scores": {
       "222": 38.94,
       "333": 51.18,
@@ -1534,7 +1534,7 @@
       "333fm": 84.21,
       "333oh": 60.79,
       "clock": 38.37,
-      "minx": 47.73,
+      "minx": 46.99,
       "pyram": 37.46,
       "skewb": 42.81,
       "sq1": 40.05
@@ -1545,7 +1545,7 @@
     "country": "Nigeria",
     "code": "ng",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1ec.png",
-    "overall": 42.09,
+    "overall": 42.04,
     "scores": {
       "222": 30.14,
       "333": 45.61,
@@ -1557,7 +1557,7 @@
       "333fm": 52.69,
       "333oh": 51.99,
       "clock": 29.58,
-      "minx": 55.18,
+      "minx": 54.33,
       "pyram": 23.37,
       "skewb": 35.31,
       "sq1": 57.37
@@ -1568,7 +1568,7 @@
     "country": "Sri Lanka",
     "code": "lk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1f0.png",
-    "overall": 41.63,
+    "overall": 41.6,
     "scores": {
       "222": 53.33,
       "333": 46.04,
@@ -1580,7 +1580,7 @@
       "333fm": 59.26,
       "333oh": 57.78,
       "clock": 34.93,
-      "minx": 40.05,
+      "minx": 39.43,
       "pyram": 52.04,
       "skewb": 38.92,
       "sq1": 28.01
@@ -1591,7 +1591,7 @@
     "country": "Kyrgyzstan",
     "code": "kg",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1ec.png",
-    "overall": 39.46,
+    "overall": 39.41,
     "scores": {
       "222": 37.61,
       "333": 63.93,
@@ -1603,7 +1603,7 @@
       "333fm": 56.73,
       "333oh": 76.28,
       "clock": 21.75,
-      "minx": 53.97,
+      "minx": 53.14,
       "pyram": 24.78,
       "skewb": 31.21,
       "sq1": 38.74
@@ -1614,7 +1614,7 @@
     "country": "Costa Rica",
     "code": "cr",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f7.png",
-    "overall": 39.24,
+    "overall": 39.18,
     "scores": {
       "222": 42.72,
       "333": 50.72,
@@ -1626,7 +1626,7 @@
       "333fm": 52.22,
       "333oh": 57.61,
       "clock": 24.51,
-      "minx": 65.68,
+      "minx": 64.67,
       "pyram": 41.37,
       "skewb": 38.38,
       "sq1": 37.77
@@ -1637,7 +1637,7 @@
     "country": "Ecuador",
     "code": "ec",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1e8.png",
-    "overall": 38.63,
+    "overall": 38.58,
     "scores": {
       "222": 43.56,
       "333": 47.79,
@@ -1649,7 +1649,7 @@
       "333fm": 53.64,
       "333oh": 52.16,
       "clock": 38.24,
-      "minx": 49.61,
+      "minx": 48.85,
       "pyram": 34.12,
       "skewb": 30.79,
       "sq1": 30.22
@@ -1660,7 +1660,7 @@
     "country": "Georgia",
     "code": "ge",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1ea.png",
-    "overall": 38.22,
+    "overall": 38.17,
     "scores": {
       "222": 69.29,
       "333": 57.1,
@@ -1672,7 +1672,7 @@
       "333fm": 42.11,
       "333oh": 56.89,
       "clock": 17.74,
-      "minx": 50.36,
+      "minx": 49.58,
       "pyram": 55.29,
       "skewb": 40.65,
       "sq1": 28.3
@@ -1683,7 +1683,7 @@
     "country": "Pakistan",
     "code": "pk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f0.png",
-    "overall": 36.77,
+    "overall": 36.71,
     "scores": {
       "222": 36.07,
       "333": 52.21,
@@ -1695,7 +1695,7 @@
       "333fm": 53.16,
       "333oh": 52.3,
       "clock": 33.43,
-      "minx": 63.07,
+      "minx": 62.1,
       "pyram": 26.93,
       "skewb": 23.22,
       "sq1": 44.65
@@ -1706,7 +1706,7 @@
     "country": "Egypt",
     "code": "eg",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ec.png",
-    "overall": 36.33,
+    "overall": 36.28,
     "scores": {
       "222": 33.46,
       "333": 50.58,
@@ -1718,7 +1718,7 @@
       "333fm": 43.24,
       "333oh": 42.84,
       "clock": 44.49,
-      "minx": 65.06,
+      "minx": 64.06,
       "pyram": 28.68,
       "skewb": 28.84,
       "sq1": 49.05
@@ -1729,7 +1729,7 @@
     "country": "Panama",
     "code": "pa",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1e6.png",
-    "overall": 36.11,
+    "overall": 36.07,
     "scores": {
       "222": 31.88,
       "333": 46.65,
@@ -1741,7 +1741,7 @@
       "333fm": 55.14,
       "333oh": 55.86,
       "clock": 31.83,
-      "minx": 40.76,
+      "minx": 40.14,
       "pyram": 39.12,
       "skewb": 27.4,
       "sq1": 30.18
@@ -1752,7 +1752,7 @@
     "country": "Dominican Republic",
     "code": "do",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1f4.png",
-    "overall": 35.67,
+    "overall": 35.63,
     "scores": {
       "222": 44,
       "333": 56.69,
@@ -1764,7 +1764,7 @@
       "333fm": 64,
       "333oh": 64.93,
       "clock": 23.92,
-      "minx": 43.82,
+      "minx": 43.15,
       "pyram": 28.4,
       "skewb": 24.2,
       "sq1": 36.23
@@ -1775,7 +1775,7 @@
     "country": "Cyprus",
     "code": "cy",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1fe.png",
-    "overall": 35.24,
+    "overall": 35.19,
     "scores": {
       "222": 36.51,
       "333": 48.15,
@@ -1787,7 +1787,7 @@
       "333fm": 50.44,
       "333oh": 46.45,
       "clock": 40.43,
-      "minx": 54.42,
+      "minx": 53.58,
       "pyram": 34.12,
       "skewb": 32.08,
       "sq1": 25.14
@@ -1798,7 +1798,7 @@
     "country": "Tunisia",
     "code": "tn",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f3.png",
-    "overall": 34.46,
+    "overall": 34.42,
     "scores": {
       "222": 38.26,
       "333": 48.63,
@@ -1810,7 +1810,7 @@
       "333fm": 47.59,
       "333oh": 47.92,
       "clock": 19.02,
-      "minx": 48.72,
+      "minx": 47.97,
       "pyram": 28.05,
       "skewb": 36.93,
       "sq1": 35.7
@@ -1821,7 +1821,7 @@
     "country": "Nepal",
     "code": "np",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f3-1f1f5.png",
-    "overall": 34.37,
+    "overall": 34.33,
     "scores": {
       "222": 32.84,
       "333": 49.37,
@@ -1833,7 +1833,7 @@
       "333fm": 53.33,
       "333oh": 56.89,
       "clock": 24.38,
-      "minx": 44.97,
+      "minx": 44.28,
       "pyram": 35.6,
       "skewb": 39.71,
       "sq1": 26.53
@@ -1844,7 +1844,7 @@
     "country": "El Salvador",
     "code": "sv",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1fb.png",
-    "overall": 34.34,
+    "overall": 34.3,
     "scores": {
       "222": 30.99,
       "333": 48.81,
@@ -1856,7 +1856,7 @@
       "333fm": 55.17,
       "333oh": 43.44,
       "clock": 26.28,
-      "minx": 43.17,
+      "minx": 42.5,
       "pyram": 27.12,
       "skewb": 32.78,
       "sq1": 34.86
@@ -1867,7 +1867,7 @@
     "country": "Morocco",
     "code": "ma",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1e6.png",
-    "overall": 34.07,
+    "overall": 34.04,
     "scores": {
       "222": 30.14,
       "333": 49.37,
@@ -1879,7 +1879,7 @@
       "333fm": 55.17,
       "333oh": 46.14,
       "clock": 22.65,
-      "minx": 36.28,
+      "minx": 35.72,
       "pyram": 35.6,
       "skewb": 32.24,
       "sq1": 25.45
@@ -1890,7 +1890,7 @@
     "country": "Paraguay",
     "code": "py",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1fe.png",
-    "overall": 33.18,
+    "overall": 33.13,
     "scores": {
       "222": 36.36,
       "333": 53.35,
@@ -1902,7 +1902,7 @@
       "333fm": 52.22,
       "333oh": 60.5,
       "clock": 27.9,
-      "minx": 56.7,
+      "minx": 55.83,
       "pyram": 30.18,
       "skewb": 30.58,
       "sq1": 26.17
@@ -1913,7 +1913,7 @@
     "country": "North Macedonia",
     "code": "mk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f0.png",
-    "overall": 32.31,
+    "overall": 32.27,
     "scores": {
       "222": 36.36,
       "333": 50.65,
@@ -1925,7 +1925,7 @@
       "333fm": 42.11,
       "333oh": 48.95,
       "clock": 19.47,
-      "minx": 40.02,
+      "minx": 39.41,
       "pyram": 29.41,
       "skewb": 35.77,
       "sq1": 28.39
@@ -1936,7 +1936,7 @@
     "country": "Bosnia & Herzegovina",
     "code": "ba",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1e6.png",
-    "overall": 32.25,
+    "overall": 32.22,
     "scores": {
       "222": 30.24,
       "333": 43,
@@ -1948,7 +1948,7 @@
       "333fm": 47.06,
       "333oh": 37.94,
       "clock": 31.79,
-      "minx": 37.46,
+      "minx": 36.89,
       "pyram": 29.72,
       "skewb": 34.08,
       "sq1": 24.65
@@ -1959,7 +1959,7 @@
     "country": "Luxembourg",
     "code": "lu",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1fa.png",
-    "overall": 31.68,
+    "overall": 31.64,
     "scores": {
       "222": 26.51,
       "333": 35.91,
@@ -1971,7 +1971,7 @@
       "333fm": 60.84,
       "333oh": 38.5,
       "clock": 22.71,
-      "minx": 44.78,
+      "minx": 44.09,
       "pyram": 25.33,
       "skewb": 25.09,
       "sq1": 19.2
@@ -1982,7 +1982,7 @@
     "country": "Kosovo",
     "code": "xk",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fd-1f1f0.png",
-    "overall": 30.94,
+    "overall": 30.9,
     "scores": {
       "222": 36.36,
       "333": 59,
@@ -1994,7 +1994,7 @@
       "333fm": 0,
       "333oh": 52.2,
       "clock": 0,
-      "minx": 39.99,
+      "minx": 39.37,
       "pyram": 31.25,
       "skewb": 15.91,
       "sq1": 12.78
@@ -2005,7 +2005,7 @@
     "country": "Palestinian Territories",
     "code": "ps",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f8.png",
-    "overall": 30.79,
+    "overall": 30.75,
     "scores": {
       "222": 29.33,
       "333": 49.37,
@@ -2017,7 +2017,7 @@
       "333fm": 47.06,
       "333oh": 52.91,
       "clock": 19.53,
-      "minx": 49.38,
+      "minx": 48.62,
       "pyram": 27.71,
       "skewb": 29.03,
       "sq1": 29.97
@@ -2028,7 +2028,7 @@
     "country": "Kuwait",
     "code": "kw",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f0-1f1fc.png",
-    "overall": 30.33,
+    "overall": 30.3,
     "scores": {
       "222": 34.78,
       "333": 48.33,
@@ -2040,7 +2040,7 @@
       "333fm": 55.68,
       "333oh": 52.3,
       "clock": 34.5,
-      "minx": 37.67,
+      "minx": 37.1,
       "pyram": 27,
       "skewb": 35.4,
       "sq1": 21.49
@@ -2051,7 +2051,7 @@
     "country": "Azerbaijan",
     "code": "az",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1ff.png",
-    "overall": 30.29,
+    "overall": 30.27,
     "scores": {
       "222": 28.03,
       "333": 45.51,
@@ -2063,7 +2063,7 @@
       "333fm": 55.17,
       "333oh": 49.71,
       "clock": 23.11,
-      "minx": 32.08,
+      "minx": 31.58,
       "pyram": 31.25,
       "skewb": 28.42,
       "sq1": 27.49
@@ -2074,7 +2074,7 @@
     "country": "Lebanon",
     "code": "lb",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1e7.png",
-    "overall": 30.03,
+    "overall": 30,
     "scores": {
       "222": 27.41,
       "333": 49.12,
@@ -2086,7 +2086,7 @@
       "333fm": 46.47,
       "333oh": 41.39,
       "clock": 16.89,
-      "minx": 31.26,
+      "minx": 30.78,
       "pyram": 26.68,
       "skewb": 20.48,
       "sq1": 20.45
@@ -2097,7 +2097,7 @@
     "country": "Moldova",
     "code": "md",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1e9.png",
-    "overall": 29.99,
+    "overall": 29.96,
     "scores": {
       "222": 46.81,
       "333": 42.16,
@@ -2109,7 +2109,7 @@
       "333fm": 41.26,
       "333oh": 48.34,
       "clock": 18.56,
-      "minx": 35.06,
+      "minx": 34.52,
       "pyram": 35.49,
       "skewb": 23.99,
       "sq1": 27.28
@@ -2120,7 +2120,7 @@
     "country": "Armenia",
     "code": "am",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f2.png",
-    "overall": 29.9,
+    "overall": 29.87,
     "scores": {
       "222": 30.99,
       "333": 42.39,
@@ -2132,7 +2132,7 @@
       "333fm": 55.17,
       "333oh": 53.61,
       "clock": 27.29,
-      "minx": 35.51,
+      "minx": 34.97,
       "pyram": 25.16,
       "skewb": 29.85,
       "sq1": 29.47
@@ -2143,7 +2143,7 @@
     "country": "Iceland",
     "code": "is",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f8.png",
-    "overall": 29.61,
+    "overall": 29.58,
     "scores": {
       "222": 40,
       "333": 48.51,
@@ -2155,7 +2155,7 @@
       "333fm": 50,
       "333oh": 49.84,
       "clock": 23.4,
-      "minx": 30.99,
+      "minx": 30.51,
       "pyram": 24.84,
       "skewb": 27.13,
       "sq1": 25.34
@@ -2166,7 +2166,7 @@
     "country": "Syria",
     "code": "sy",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f8-1f1fe.png",
-    "overall": 28.95,
+    "overall": 28.91,
     "scores": {
       "222": 29.43,
       "333": 48.87,
@@ -2178,7 +2178,7 @@
       "333fm": 36.36,
       "333oh": 40.89,
       "clock": 37.42,
-      "minx": 44.32,
+      "minx": 43.64,
       "pyram": 38.46,
       "skewb": 32.62,
       "sq1": 27.36
@@ -2189,7 +2189,7 @@
     "country": "Honduras",
     "code": "hn",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ed-1f1f3.png",
-    "overall": 28.59,
+    "overall": 28.56,
     "scores": {
       "222": 30.45,
       "333": 43.43,
@@ -2201,7 +2201,7 @@
       "333fm": 48.48,
       "333oh": 43.08,
       "clock": 13.04,
-      "minx": 35.3,
+      "minx": 34.76,
       "pyram": 21.5,
       "skewb": 30.18,
       "sq1": 26.23
@@ -2212,7 +2212,7 @@
     "country": "Bahrain",
     "code": "bh",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1ed.png",
-    "overall": 28.1,
+    "overall": 28.07,
     "scores": {
       "222": 34.24,
       "333": 44.72,
@@ -2224,7 +2224,7 @@
       "333fm": 36.43,
       "333oh": 46.76,
       "clock": 19.93,
-      "minx": 32.74,
+      "minx": 32.24,
       "pyram": 29.79,
       "skewb": 30.93,
       "sq1": 19.64
@@ -2235,7 +2235,7 @@
     "country": "Myanmar (Burma)",
     "code": "mm",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f2.png",
-    "overall": 27.9,
+    "overall": 27.88,
     "scores": {
       "222": 28.39,
       "333": 50.39,
@@ -2247,7 +2247,7 @@
       "333fm": 50,
       "333oh": 46.14,
       "clock": 13.22,
-      "minx": 22.71,
+      "minx": 22.36,
       "pyram": 15.6,
       "skewb": 31.14,
       "sq1": 7.99
@@ -2258,7 +2258,7 @@
     "country": "Madagascar",
     "code": "mg",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1ec.png",
-    "overall": 27.25,
+    "overall": 27.22,
     "scores": {
       "222": 50.87,
       "333": 48.09,
@@ -2270,7 +2270,7 @@
       "333fm": 0,
       "333oh": 55.34,
       "clock": 10.69,
-      "minx": 38.37,
+      "minx": 37.78,
       "pyram": 21.38,
       "skewb": 5.93,
       "sq1": 0
@@ -2281,7 +2281,7 @@
     "country": "Mauritius",
     "code": "mu",
     "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1fa.png",
-    "overall": 25.97,
+    "overall": 25.95,
     "scores": {
       "222": 30.99,
       "333": 38.27,
@@ -2293,7 +2293,7 @@
       "333fm": 45.4,
       "333oh": 42.6,
       "clock": 36.51,
-      "minx": 25.59,
+      "minx": 25.2,
       "pyram": 19.79,
       "skewb": 25.32,
       "sq1": 15.44

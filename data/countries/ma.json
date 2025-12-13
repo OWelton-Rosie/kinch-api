@@ -3,7 +3,7 @@
   "country": "Morocco",
   "code": "ma",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1e6.png",
-  "overall": 34.07,
+  "overall": 34.04,
   "scores": {
     "222": 30.14,
     "333": 49.37,
@@ -15,7 +15,7 @@
     "333fm": 55.17,
     "333oh": 46.14,
     "clock": 22.65,
-    "minx": 36.28,
+    "minx": 35.72,
     "pyram": 35.6,
     "skewb": 32.24,
     "sq1": 25.45

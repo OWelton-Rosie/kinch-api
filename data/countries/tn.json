@@ -3,7 +3,7 @@
   "country": "Tunisia",
   "code": "tn",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f9-1f1f3.png",
-  "overall": 34.46,
+  "overall": 34.42,
   "scores": {
     "222": 38.26,
     "333": 48.63,
@@ -15,7 +15,7 @@
     "333fm": 47.59,
     "333oh": 47.92,
     "clock": 19.02,
-    "minx": 48.72,
+    "minx": 47.97,
     "pyram": 28.05,
     "skewb": 36.93,
     "sq1": 35.7

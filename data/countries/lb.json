@@ -3,7 +3,7 @@
   "country": "Lebanon",
   "code": "lb",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1e7.png",
-  "overall": 30.03,
+  "overall": 30,
   "scores": {
     "222": 27.41,
     "333": 49.12,
@@ -15,7 +15,7 @@
     "333fm": 46.47,
     "333oh": 41.39,
     "clock": 16.89,
-    "minx": 31.26,
+    "minx": 30.78,
     "pyram": 26.68,
     "skewb": 20.48,
     "sq1": 20.45

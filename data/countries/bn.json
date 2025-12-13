@@ -3,7 +3,7 @@
   "country": "Brunei",
   "code": "bn",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f3.png",
-  "overall": 22.7,
+  "overall": 22.67,
   "scores": {
     "222": 28.39,
     "333": 37.57,
@@ -15,7 +15,7 @@
     "333fm": 31.37,
     "333oh": 40.87,
     "clock": 10.07,
-    "minx": 31.86,
+    "minx": 31.37,
     "pyram": 25.39,
     "skewb": 25,
     "sq1": 7.42

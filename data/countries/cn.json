@@ -3,7 +3,7 @@
   "country": "China",
   "code": "cn",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f3.png",
-  "overall": 89.15,
+  "overall": 89.06,
   "scores": {
     "222": 100,
     "333": 100,
@@ -15,7 +15,7 @@
     "333fm": 96.75,
     "333oh": 93.92,
     "clock": 76.87,
-    "minx": 100,
+    "minx": 98.47,
     "pyram": 96.64,
     "skewb": 89.54,
     "sq1": 74.08

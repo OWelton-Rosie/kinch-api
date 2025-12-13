@@ -3,7 +3,7 @@
   "country": "Macao SAR China",
   "code": "mo",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f4.png",
-  "overall": 44.23,
+  "overall": 44.19,
   "scores": {
     "222": 39.29,
     "333": 50.13,
@@ -15,7 +15,7 @@
     "333fm": 56.2,
     "333oh": 57.06,
     "clock": 44.31,
-    "minx": 47.7,
+    "minx": 46.97,
     "pyram": 38.46,
     "skewb": 39.6,
     "sq1": 42.09

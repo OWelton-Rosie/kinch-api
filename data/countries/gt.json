@@ -1,9 +1,9 @@
 {
-  "rank": 60,
+  "rank": 61,
   "country": "Guatemala",
   "code": "gt",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1f9.png",
-  "overall": 45.69,
+  "overall": 45.64,
   "scores": {
     "222": 44.9,
     "333": 50.26,
@@ -15,7 +15,7 @@
     "333fm": 61.54,
     "333oh": 57.78,
     "clock": 30.46,
-    "minx": 52.83,
+    "minx": 52.02,
     "pyram": 38.85,
     "skewb": 33.41,
     "sq1": 35

@@ -3,7 +3,7 @@
   "country": "Ghana",
   "code": "gh",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1ed.png",
-  "overall": 12.43,
+  "overall": 12.41,
   "scores": {
     "222": 17.5,
     "333": 31.66,
@@ -15,7 +15,7 @@
     "333fm": 0,
     "333oh": 19.68,
     "clock": 22.2,
-    "minx": 16.24,
+    "minx": 15.99,
     "pyram": 11.57,
     "skewb": 27.13,
     "sq1": 9.69

@@ -3,7 +3,7 @@
   "country": "Latvia",
   "code": "lv",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f1-1f1fb.png",
-  "overall": 44.86,
+  "overall": 44.81,
   "scores": {
     "222": 49.72,
     "333": 49.74,
@@ -15,7 +15,7 @@
     "333fm": 64.85,
     "333oh": 52.95,
     "clock": 49.89,
-    "minx": 57.47,
+    "minx": 56.59,
     "pyram": 40.49,
     "skewb": 36.53,
     "sq1": 48.33

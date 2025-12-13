@@ -3,7 +3,7 @@
   "country": "Papua New Guinea",
   "code": "pg",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1ec.png",
-  "overall": 11.83,
+  "overall": 11.79,
   "scores": {
     "222": 17.74,
     "333": 30.81,
@@ -15,7 +15,7 @@
     "333fm": 0,
     "333oh": 32.7,
     "clock": 9.11,
-    "minx": 41.35,
+    "minx": 40.71,
     "pyram": 12.6,
     "skewb": 16.53,
     "sq1": 8.97

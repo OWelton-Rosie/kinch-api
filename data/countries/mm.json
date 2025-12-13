@@ -3,7 +3,7 @@
   "country": "Myanmar (Burma)",
   "code": "mm",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f2-1f1f2.png",
-  "overall": 27.9,
+  "overall": 27.88,
   "scores": {
     "222": 28.39,
     "333": 50.39,
@@ -15,7 +15,7 @@
     "333fm": 50,
     "333oh": 46.14,
     "clock": 13.22,
-    "minx": 22.71,
+    "minx": 22.36,
     "pyram": 15.6,
     "skewb": 31.14,
     "sq1": 7.99

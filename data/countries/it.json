@@ -3,7 +3,7 @@
   "country": "Italy",
   "code": "it",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ee-1f1f9.png",
-  "overall": 68.51,
+  "overall": 68.44,
   "scores": {
     "222": 65.19,
     "333": 68.66,
@@ -15,7 +15,7 @@
     "333fm": 100,
     "333oh": 78.86,
     "clock": 68.07,
-    "minx": 80.6,
+    "minx": 79.36,
     "pyram": 66.47,
     "skewb": 64.93,
     "sq1": 85.27

@@ -3,7 +3,7 @@
   "country": "Australia",
   "code": "au",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1fa.png",
-  "overall": 82.65,
+  "overall": 82.58,
   "scores": {
     "222": 86.27,
     "333": 70.52,
@@ -15,7 +15,7 @@
     "333fm": 96.75,
     "333oh": 82.39,
     "clock": 88.63,
-    "minx": 76.14,
+    "minx": 74.97,
     "pyram": 100,
     "skewb": 74.46,
     "sq1": 87.69

@@ -3,7 +3,7 @@
   "country": "Cyprus",
   "code": "cy",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1fe.png",
-  "overall": 35.24,
+  "overall": 35.19,
   "scores": {
     "222": 36.51,
     "333": 48.15,
@@ -15,7 +15,7 @@
     "333fm": 50.44,
     "333oh": 46.45,
     "clock": 40.43,
-    "minx": 54.42,
+    "minx": 53.58,
     "pyram": 34.12,
     "skewb": 32.08,
     "sq1": 25.14

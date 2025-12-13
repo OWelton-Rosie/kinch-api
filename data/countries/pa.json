@@ -3,7 +3,7 @@
   "country": "Panama",
   "code": "pa",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1e6.png",
-  "overall": 36.11,
+  "overall": 36.07,
   "scores": {
     "222": 31.88,
     "333": 46.65,
@@ -15,7 +15,7 @@
     "333fm": 55.14,
     "333oh": 55.86,
     "clock": 31.83,
-    "minx": 40.76,
+    "minx": 40.14,
     "pyram": 39.12,
     "skewb": 27.4,
     "sq1": 30.18

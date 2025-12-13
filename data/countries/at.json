@@ -3,7 +3,7 @@
   "country": "Austria",
   "code": "at",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1f9.png",
-  "overall": 61.1,
+  "overall": 61.05,
   "scores": {
     "222": 64.23,
     "333": 61.51,
@@ -15,7 +15,7 @@
     "333fm": 81.96,
     "333oh": 57.53,
     "clock": 56.36,
-    "minx": 51.71,
+    "minx": 50.92,
     "pyram": 46.56,
     "skewb": 41.39,
     "sq1": 42.63

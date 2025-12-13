@@ -3,7 +3,7 @@
   "country": "United Kingdom",
   "code": "gb",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ec-1f1e7.png",
-  "overall": 79.33,
+  "overall": 79.25,
   "scores": {
     "222": 88,
     "333": 67.24,
@@ -15,7 +15,7 @@
     "333fm": 100,
     "333oh": 97.11,
     "clock": 84.33,
-    "minx": 90.63,
+    "minx": 89.24,
     "pyram": 73.25,
     "skewb": 75.27,
     "sq1": 73.14
