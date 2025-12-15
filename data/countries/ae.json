@@ -1,11 +1,11 @@
 {
-  "rank": 110,
+  "rank": 109,
   "country": "United Arab Emirates",
   "code": "ae",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e6-1f1ea.png",
-  "overall": 21.98,
+  "overall": 21.94,
   "scores": {
-    "222": 23.59,
+    "222": 23.06,
     "333": 41.85,
     "444": 44.05,
     "555": 40.97,
@@ -14,7 +14,7 @@
     "333bf": 5,
     "333fm": 33.33,
     "333oh": 38.37,
-    "clock": 13.19,
+    "clock": 13.07,
     "minx": 33.11,
     "pyram": 25.05,
     "skewb": 15.55,

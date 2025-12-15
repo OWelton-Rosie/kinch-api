@@ -1,11 +1,11 @@
 {
-  "rank": 51,
+  "rank": 52,
   "country": "Estonia",
   "code": "ee",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1ea-1f1ea.png",
-  "overall": 48.21,
+  "overall": 48.11,
   "scores": {
-    "222": 52.07,
+    "222": 50.89,
     "333": 62.7,
     "444": 67.6,
     "555": 59.41,
@@ -14,7 +14,7 @@
     "333bf": 35.29,
     "333fm": 65.57,
     "333oh": 65.15,
-    "clock": 59.16,
+    "clock": 58.64,
     "minx": 51.37,
     "pyram": 58.08,
     "skewb": 38.48,

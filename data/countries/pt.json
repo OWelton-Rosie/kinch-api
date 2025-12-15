@@ -3,9 +3,9 @@
   "country": "Portugal",
   "code": "pt",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1f5-1f1f9.png",
-  "overall": 49.66,
+  "overall": 49.68,
   "scores": {
-    "222": 43.14,
+    "222": 42.16,
     "333": 52.21,
     "444": 68.95,
     "555": 65.75,
@@ -14,9 +14,9 @@
     "333bf": 49.1,
     "333fm": 86.77,
     "333oh": 57.87,
-    "clock": 50.11,
+    "clock": 49.67,
     "minx": 58.05,
-    "pyram": 38.85,
+    "pyram": 40.49,
     "skewb": 39.14,
     "sq1": 52.85
   }

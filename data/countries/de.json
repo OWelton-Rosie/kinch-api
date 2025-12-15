@@ -1,11 +1,11 @@
 {
-  "rank": 13,
+  "rank": 14,
   "country": "Germany",
   "code": "de",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1e9-1f1ea.png",
-  "overall": 72.23,
+  "overall": 72.1,
   "scores": {
-    "222": 69.29,
+    "222": 67.72,
     "333": 68.9,
     "444": 95.27,
     "555": 82.99,
@@ -14,7 +14,7 @@
     "333bf": 79.73,
     "333fm": 93.67,
     "333oh": 89.04,
-    "clock": 70.63,
+    "clock": 70,
     "minx": 73.04,
     "pyram": 67.65,
     "skewb": 59.57,

@@ -1,11 +1,11 @@
 {
-  "rank": 58,
+  "rank": 59,
   "country": "Uzbekistan",
   "code": "uz",
   "flag": "https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1ff.png",
-  "overall": 45.92,
+  "overall": 45.83,
   "scores": {
-    "222": 48.62,
+    "222": 47.51,
     "333": 58.04,
     "444": 67.29,
     "555": 63.83,
@@ -14,7 +14,7 @@
     "333bf": 30.19,
     "333fm": 66.67,
     "333oh": 64.82,
-    "clock": 31.79,
+    "clock": 31.5,
     "minx": 68.99,
     "pyram": 36.51,
     "skewb": 37.33,
